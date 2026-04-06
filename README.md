@@ -1,303 +1,303 @@
 # PP Punjab Candidates 2024 (PTI)
 
-PP-1 (Attock-I),Qazi Ahmed Akbar - قاضی احمد اکبر
-PP-2 (Attock-II),Sardar Mohammad Ali Khan - سردار محمد علی خان
-PP-3 (Attock-III),Syed Ijaz Hussain Bukhari - سید اعجاز حسین بخاری
-PP-4 (Attock-IV),Sardar Shah Nawaz khan - سردار شاہ نواز خان
-PP-5 (Attock-V),Malik Jamshaid Altaf - ملک جمشید الطاف
-PP-6 (Murree),Zain Ul Abideen - زین العابدین
-PP-7 (Rawalpindi-I),Muhammad Shabbir Awan - محمد شبیر اعوان
-PP-8 (Rawalpindi-II),Javed Kausar - جاوید کوثر
-PP-9 (Rawalpindi-III),Munir Ahmed - منیر احمد
-PP-10 (Rawalpindi-IV),Chaudhary Muhammad Amir Afzal - چوہدری محمد امیر افضل
-PP-11 (Rawalpindi-V),Chaudhry Muhammad Nazir - چوہدری محمد نذیر
-PP-12 (Rawalpindi-VI),Saad Ali Khan - سعد علی خان
-PP-13 (Rawalpindi-VII),Malik Fahad Masood - ملک فہد مسعود
-PP-14 (Rawalpindi-VIII),Nasir Ali Khan - ناصر علی خان
-PP-15 (Rawalpindi-IX),Ziyad Khaleek Kiyani - زیاد خلیق کیانی
-PP-16 (Rawalpindi-X),Ijaz Khan - اعجاز خان
-PP-17 (Rawalpindi-XI),Raja Rashid Hafeez - راجہ راشد حفیظ
-PP-18 (Rawalpindi-XII),Asad Abbas - اسد عباس
-PP-19 (Rawalpindi-XIII),Muhammad Tanveer Aslam - محمد تنویر اسلم
-PP-20 (Chakwal-I),Ali Nasir Khan - علی ناصر خان
-PP-21 (Chakwal-II),Tariq Mehmood Afzal - طارق محمود افضل
-PP-22 (Chakwal-cum-Talagang),Nisar Ahmed - نثار احمد
-PP-23 (Talagang),Sultan Surkhru Awan - سلطان سرخرو اعوان
-PP-24 (Jehlum-I),Syed Riffat Mehmood - سید رفعت محمود
-PP-25 (Jehlum-II),Yasir Mehmood Qureshi - یاسرمحمود  قریشی
-PP-26 (Jehlum-III),Mushtaq Ahmad - مشتاق احمد
-PP-27 (Gujrat-I),Nauman Ashraf - نعمان اشرف
-PP-28 (Gujrat-II),Shahid Raza - شاہد رضا
-PP-29 (Gujrat-III),Afia Noreen - عافیہ نورین
-PP-30 (Gujrat-IV),Tanveer Ahmed - تنویر احمد
-PP-31 (Gujrat-V),Mudassar Raza - مدثر رضا
-PP-32 (Gujrat-VI),Chaudhry Pervaiz Elahi - چوہدری پرویز الٰہی
-PP-33 (Gujrat-VII),Muhammad Omer Liaquat  -  محمدعمر لیاقت
-PP-34 (Gujrat-VIII),Samaira Elahee Chauhan - ثمیرا الٰہی چوہان
-PP-35 (Wazirabad-I),Muhammad Yousaf -  محمد یوسف
-PP-36 (Wazirabad-II),Mohammed Ahmed Chattha - محمد احمد چٹھہ
-PP-37 (Hafizabad-I),Ch. Muhammad Asad Ullah  -  چوہدری محمد اسد اللہ
-PP-38 (Hafizabad-II),Zameer Ul Hassan Bhatti - ضمیر الحسن بھٹی
-PP-39 (Hafizabad-III),Qamar Javed  - قمر جاوید
-PP-40 (M.B.Din-I),Zarnab Sher -  زرناب شیر
-PP-41 (M.B.Din-II),Baasima Chaudhary - باسمہ چوہدری
-PP-42 (M.B.Din-III),Sajid Ahmad Khan - ساجد احمد خان
-PP-43 (M.B.Din-IV),Chaudhary Muhammad Nawaz - چوہدری محمد نواز
-PP-44 (Sialkot-I),Saeed Ahmad Bhalli - سعید احمد  بھلی
-PP-45 (Sialkot-II),Umer Javed Ghuman - عمر جاوید گھمن
-PP-46 (Sialkot-III),Ruba Umar - روبا عمر
-PP-47 (Sialkot-IV),Muhammad Kashif - محمد کاشف
-PP-48 (Sialkot-V),Ahsan Abbas - احسن عباس
-PP-49 (Sialkot-VI),Munawar Ahmed Gill - منور احمد گل
-PP-50 (Sialkot-VII),Aman Ullah -  امان اللہ
-PP-51 (Sialkot-VIII),Waqass Iftikhar - وقاص افتخار
-PP-52 (Sialkot-IX),Fakhir Nishat Ghumman - فاخر نشاط گھمن
-PP-53 (Sialkot-X),Malik Jamshed Ghias - ملک جمشید غیاث
-PP-54 (Narowal-I),Javed Mukhtar - جاوید مختار
-PP-55 (Narowal-II),Arslan Hafeez - ارسلان حفیظ
-PP-56 (Narowal-III),Aleem Tariq - علیم طارق
-PP-57 (Narowal-IV),Rana Lal Badshah - رانا لعل بادشاہ
-PP-58 (Narowal-V),Muhammad Irfan Abid -  محمدعرفان عابد
-PP-59 (Gujranwala-I),Muhammad Nasir Cheema - محمد ناصر چیمہ
-PP-60 (Gujranwala-II),Kaleem Ullah Khan - کلیم اللہ خان
-PP-61 (Gujranwala-III),Tahir Majeed Khan - طاہر مجید خان
-PP-62 (Gujranwala-IV),Rizwan Mustafa Sian - رضوان مصطفیٰ سیان
-PP-63 (Gujranwala-V),Chaudhry Muhammad Tariq -   چوہدری محمد طارق
-PP-64 (Gujranwala-VI),Chaudhry Muhammad Ali - چوہدری محمد علی
-PP-65 (Gujranwala-VII),Hassan Ali - حسن  علی
-PP-66 (Gujranwala-VIII),Rizwan Zafar Cheema - رضوان ظفر چیمہ
-PP-67 (Gujranwala-IX),Ch Ali Wakeel Khan -  چوہدری علی وکیل خان
-PP-68 (Gujranwala-X),Muhammad Arqam Khan - محمد ارقم خان
-PP-69 (Gujranwala-XI),Umar Javed Virk - عمر جاوید ورک
-PP-70 (Gujranwala-XII),Tashakul Abbas Warraich - تشکل عباس وڑائچ
-PP-71 (Sargodha-I),Naeem Haider  - نعیم حیدر
-PP-72 (Sargodha-II),Chaudhry Sohail Akhtar -  چوہدری سہیل اختر
-PP-73 (Sargodha-III),Muhammad Ansar Iqbal -  محمد انصار اقبال
-PP-74 (Sargodha-IV),Nadeem Muhammad Akram  - ندیم محمد اکرم
-PP-75 (Sargodha-V),Ali Asif  - علی آصف
-PP-76 (Sargodha-VI),Zulfiqar Ali - ذوالفقار علی
-PP-77 (Sargodha-VII),Abdul Wahab Mumtaz Kahloon - عبدالوہاب ممتاز کاہلوں
-PP-78 (Sargodha-VIII),Waqar Anwar  - وقار انور
-PP-79 (Sargodha-IX),Ghulam Ali Asghar Khan Lahri - غلام علی اصغر خان لاہڑی
-PP-80 (Sargodha-X),Chaudhry Iftikhar Hussain -  چوہدری افتخار حسین
-PP-81 (Khushab-I),Hassan Malik -  حسن ملک
-PP-82 (Khushab-II),Masood Anwar - مسعود انور
-PP-83 (Khushab-III),Amjad Raza  - امجد رضا
-PP-84 (Khushab-IV),Fateh Khaliq  - فتح خالق
-PP-85 (Mianwali-I),Muhammad Iqbal -  محمد اقبال
-PP-86 (Mianwali-II),Amin Ullah Khan - امین اللہ خان
-PP-87 (Mianwali-III),Ahmad Khan  - احمد خان
-PP-88 (Mianwali-IV),Mumtaz Ahmad - ممتاز احمد
-PP-89 (Bhakkar-I),Muhammad Khan  - محمد خان
-PP-90 (Bhakkar-II),Irfan Ullah Khan Niazi - عرفان اللہ خان  نیازی
-PP-91 (Bhakkar-III),Akhtar Qasim  - اختر قاسم
-PP-92 (Bhakkar-IV),Rafiq Ahmad Khan Niazi - رفیق احمد خان  نیازی
-PP-93 (Bhakkar-V),Sikandar Ahmad Khan - سکندر احمد خان
-PP-94 (Chiniot-I),Syed Muhammad Hassan Nawaz - سید محمد حسن نواز
-PP-95 (Chiniot-II),Shoukat Ali - شوکت علی
-PP-96 (Chiniot-III),Muhammad Hussain -  محمد حسین
-PP-97 (Chiniot-IV),Saleem Bibi  - سلیم بی بی
-PP-98 (Faisalabad-I),Junaid Afzal Sahi - جنید افضل ساہی
-PP-99 (Faisalabad-II),Ahmad Mujtaba Chaudhary - احمد مجتبیٰ چوہدری
-PP-100 (Faisalabad-III),Umair Wasi Chaudhary - عمیر وصی چوہدری
-PP-101 (Faisalabad-IV),Muhammad Akram Chaudhary - محمد اکرم چوہدری
-PP-102 (Faisalabad-V),Shaheer Dawood Butt - شہیر داؤد بٹ
-PP-103 (Faisalabad-VI),Noor Shahid Noor - نور شاہد نور
-PP-104 (Faisalabad-VII),Muhammad Farooq Arshad -  محمد فاروق ارشد
-PP-105 (Faisalabad-VIII),Adil Pervaz  - عادل پرویز
-PP-106 (Faisalabad-IX),Ahsan Raza - احسن رضا
-PP-107 (Faisalabad-X),Javed Niaz Manj - جاوید نیاز منج
-PP-108 (Faisalabad-XI),Aftab Ahmad Khan - آفتاب احمد خان
-PP-109 (Faisalabad-XII),Hafiz Atta Ullah - حافظ عطاء اللہ
-PP-110 (Faisalabad-XIII),Hassan Zaka  - حسن ذکاء
-PP-111 (Faisalabad-XIV),Basharat Ali  - بشارت علی
-PP-112 (Faisalabad-XV),Asad Mehmood - اسد محمود
-PP-113 (Faisalabad-XVI),Nadeem Sadiq Dogar - ندیم صادق ڈوگر
-PP-114 (Faisalabad-XVII),Muhammad Latif Nazar -  محمد لطیف نزر
-PP-115 (Faisalabad-XVIII),Shahid Javed - شاہد جاوید
-PP-116 (Faisalabad-XIX),Muhammad Ismael -  محمداسماعیل
-PP-117 (Faisalabad-XX),Abdul Razzaq Khan - عبدالرزاق خان
-PP-118 (Faisalabad-XXI),Khayal Ahmed  - خیال احمد
-PP-119 (T.T Singh-I),Asad Zaman - اسد زمان
-PP-120 (T.T Singh-II),Muhammad Ahsan Ihsan -  محمداحسن احسان
-PP-121 (T.T Singh-III),Saeed Ahmad  - سعید احمد
-PP-122 (T.T Singh-IV),Khawar Sher Ghadhi - خاور شیر گادھی
-PP-123 (T.T Singh-V),Ashifa Riaz - آشفہ ریاض
-PP-124 (T.T Singh-VI),Sonia  - سونیا
-PP-125 (Jhang-I),Sardar Alhaj Ghulam Ahmad Khan Gaddi - سردار الحاج غلام احمد خان گاڈی
-PP-126 (Jhang-II),Mehar Muhammad Nawaz  - مہر محمد نواز
-PP-127 (Jhang-III),Sheikh Muhammad Akram - شیخ محمد اکرم
-PP-128 (Jhang-IV),Ghazanfar Abbas Shah - غضنفر عباس شاہ
-PP-129 (Jhang-V),Mian Muhammad Asif  - میاں محمد آصف
-PP-130 (Jhang-VI),Shahbaz Ahmad  - شہباز احمد
-PP-131 (Jhang-VII),Mian Muhammad Azam - میاں محمد اعظم
-PP-132 (Nankana Sahib-I),Mian Ahsan Raza Wagha - میاں احسن رضا واہگہ
-PP-133 (Nankana Sahib-II),Muhammad Atif - محمد عاطف
-PP-134 (Nankana Sahib-III),Sohail Manzoor - سہیل منظور
-PP-135 (Nankana Sahib-IV),Jameel Hassan Khan - جمیل حسن خان
-PP-136 (Sheikhupura-I),Umar Aftab - عمر آفتاب
-PP-137 (Sheikhupura-II),Khurram Ejaz - خرم اعجاز
-PP-138 (Sheikhupura-III),Abuzar Maqsood Chadhar - ابوذر مقصود چدھڑ
-PP-139 (Sheikhupura-IV),Ijaz Hussain - اعجاز حسین
-PP-140 (Sheikhupura-V),Muhammad Awais - محمد اویس
-PP-141 (Sheikhupura-VI),Tayyab Rashid - طیاب راشد
-PP-142 (Sheikhupura-VII),Waqas Mahmood Maan - وقاص محمود مان
-PP-143 (Sheikhupura-VIII),Sher Akbar Khan - شیر اکبر خان
-PP-144 (Sheikhupura-IX),Muhammad Sarfaraz Dogar - محمد سرفراز ڈوگر
-PP-145 (Lahore-I),Muhammad Yasir - محمد یاسر
-PP-146 (Lahore-II),Junaid Razzaq - جنید رزاق
-PP-147 (Lahore-III),Mohammad Khan Madni - محمد خان مدنی
-PP-148 (Lahore-IV),Saba Deewan - صبا دیوان
-PP-149 (Lahore-V),Zeeshan Rasheed - ذیشان رشید
-PP-150 (Lahore-VI),Abdul Karim Khan - عبدالکریم خان
-PP-151 (Lahore-VII),Hammad Ali - حماد علی
-PP-152 (Lahore-VIII),Nouman Majeed - نعمان مجید
-PP-153 (Lahore-IX),Mian Awais Anjum - میاں اویس انجم
-PP-154 (Lahore-X),Shakeel Ahmad - شکیل احمد
-PP-155 (Lahore-XI),Imtiaz Mehmood - امتیاز محمود
-PP-156 (Lahore-XII),Ali Imtiaz - علی امتیاز
-PP-157 (Lahore-XIII),Hafiz Farhat Abbas - حافظ فرحت عباس
-PP-158 (Lahore-XIV),Yousaf Ali - یوسف علی
-PP-159 (Lahore-XV),Mehar Sharafat Ali - مہر شرافت علی
-PP-160 (Lahore-XVI),Azam Khan Niazi - اعظم خان نیازی
-PP-161 (Lahore-XVII),Farrukh Javed - فرخ جاوید
-PP-162 (Lahore-XVIII),Shabbir Ahmed - شبیر احمد
-PP-163 (Lahore-XIX),Azeem Ullah Khan - عظیم اللہ خان
-PP-164 (Lahore-XX),Muhammad Yousaf - محمد یوسف
-PP-165 (Lahore-XXI),Ahmer Bhatti - احمر بھٹی
-PP-166 (Lahore-XXII),Khalid Mehmood - خالد محمود
-PP-167 (Lahore-XXIII),Ammar Bashir - عمار بشیر
-PP-168 (Lahore-XXIV),Malik Nadeem Abbas - ملک ندیم عباس
-PP-169 (Lahore-XXV),Mian Mehmood Ur Rasheed - میاں محمود الرشید
-PP-170 (Lahore-XXVI),Mian Muhammad Haroon Akbar - میاں محمد ہارون اکبر
-PP-171 (Lahore-XXVII),Mian Muhammad Aslam Iqbal - میاں محمد اسلم اقبال
-PP-172 (Lahore-XXVIII),Misbah Wajid - مصباح واجد
-PP-173 (Lahore-XXIX),Muhammad Zubair Khan Niazi - محمد زبیر خان نیازی
-PP-174 (Lahore-XXX),Ch Muhammad Asghar - چوہدری محمد اصغر
-PP-175 (Kasur-I),Rashid Tufail - راشد طفیل
-PP-176 (Kasur-II),Muzammil Masood - مزمل مسعود
-PP-177 (Kasur-III),Muhammad Saleem Mahar - محمد سلیم مہر
-PP-178 (Kasur-IV),Shahid Masood - شاہد مسعود
-PP-179 (Kasur-V),Sardar Nadir Farook Ali - سردار نادر فاروق علی
-PP-180 (Kasur-VI),Waqas Hasan Moakal - وقاص حسن موکل
-PP-181 (Kasur-VII),Hanbal Sana Kareem - حنبل ثناء کریم
-PP-182 (Kasur-VIII),Aqeel Aslam - عقیل اسلم
-PP-183 (Kasur-IX),Rana Almas Liaqat - رانا الماس لیاقت
-PP-184 (Kasur-X),Rana Tanvir Riaz Khan - رانا تنویر ریاض خان
-PP-185 (Okara-I),Mohammad Javed - محمد جاوید
-PP-186 (Okara-II),Syed Gulzar Husnain - سید گلزار حسنین
-PP-187 (Okara-III),Mian Muhammad Fiaz - میاں محمد فیاض
-PP-188 (Okara-IV),Sardar Ali Haider Khan - سردار علی حیدر خان
-PP-189 (Okara-V),Ch Tariq Irshad Khan - چوہدری طارق ارشاد خان
-PP-190 (Okara-VI),Abdul Sattar - عبدالستار
-PP-191 (Okara-VII),Muhammad Saleem Sadiq - محمد سلیم صادق
-PP-192 (Okara-VIII),Hammad Aslam - حماد اسلم
-PP-193 (Pakpattan-I),Rao Omar Hashim Khan - راؤ عمر ہاشم خان
-PP-194 (Pakpattan-II),Mehr Moeenuddin Chishti - مہر معین الدین چشتی۔
-PP-195 (Pakpattan-III),Salman Safdar - سلمان صفدر
-PP-196 (Pakpattan-IV),Muhammad Naeem - محمد نعیم
-PP-197 (Pakpattan-V),Tariq Qayyum Shah - طارق قیوم شاہ
-PP-198 (Sahiwal-I),Sajjad Nasir - سجاد ناصر
-PP-199 (Sahiwal-II),Ahmad Safdar Khan - احمد صفدر خان
-PP-200 (Sahiwal-III),Ahmad Ali - احمد علی
-PP-201 (Sahiwal-IV),Muhammad Yar - محمد یار
-PP-202 (Sahiwal-V),Waheed Asghar - وحید اصغر
-PP-203 (Sahiwal-VI),Rai Muhammad Murtaza Iqbal - رائے محمد مرتضیٰ اقبال
-PP-204 (Sahiwal-VII),Muhammad Ghulam Sarwar - محمد غلام سرور
-PP-205 (Khanewal-I),Muhammad Abdullah Nawaz Merali - محمد عبداللہ نواز مرالی
-PP-206 (Khanewal-II),Syed Muhammad Hasnain Shah - سید محمد حسنین شاہ
-PP-207 (Khanewal-III),Kanwar Tehseen Ashraf - کنور تحسین اشرف
-PP-208 (Khanewal-IV),Muhammad Yousuf Khan - محمد یوسف خان
-PP-209 (Khanewal-V),Humayun Khan - ہمایوں خان
-PP-210 (Khanewal-VI),Khalid Javed - خالد جاوید
-PP-211 (Khanewal-VII),Imran Parvez - عمران پرویز
-PP-212 (Khanewal-VIII),Ghulam Murtaza - غلام مرتضیٰ
-PP-213 (Multan-I),Haris Javed - حارث جاوید
-PP-214 (Multan-II),Nawabzada Waseem Khan Badozai - نوابزادہ وسیم خان بادوزئی
-PP-215 (Multan-III),Muhammad Moeen Ud Din Riaz - محمد معین الدین ریاض
-PP-216 (Multan-IV),Muhammad Adnan Dogar - محمد عدنان ڈوگر
-PP-217 (Multan-V),Muhammad Nadeem Qureshi - محمد ندیم قریشی
-PP-218 (Multan-VI),Zahoor Ahmed - ظہور احمد
-PP-219 (Multan-VII),Dalair Khan - دلیر خان
-PP-220 (Multan-VIII),Zahid Behar Hashmi - زاہد بہار ہاشمی۔
-PP-221 (Multan-IX),Makhdoom Syed Amir Abbas - مخدوم سید امیر عباس
-PP-222 (Multan-X),Ayaz Ahmed - ایاز احمد
-PP-223 (Multan-XI),Rana Tufail Ahmed Noon - رانا طفیل احمد نون
-PP-224 (Multan-XII),Muhammad Arshad - محمد ارشد
-PP-225 (Lodhran-I),Shazia Hayat  - شازیہ حیات
-PP-226 (Lodhran-II),Razi Ullah Khan - رضی اللہ خان
-PP-227 (Lodhran-III),Nawab Aman Ullah Khan - نواب امان اللہ خان
-PP-228 (Lodhran-IV),Izzat Javed Khan - عزت جاوید خان
-PP-229 (Vehari-I),Arfa Nazeer - عارفہ نذیر
-PP-230 (Vehari-II),Salman Shahid - سلمان شاہد
-PP-231 (Vehari-III),Khalid Zubair Nisar - خالد زبیر نثار
-PP-232 (Vehari-IV),Abdul Waheed - عبدالوحید
-PP-233 (Vehari-V),Rai Zahoor Ahmed - رائے ظہور احمد
-PP-234 (Vehari-VI),Salman Ali Bhaba - سلمان علی بھابا۔
-PP-235 (Vehari-VII),Muhammad Jahanzaib Khan Khichi - محمد جہانزیب خان کھچی
-PP-236 (Vehari-VIII),Muhammad Ali Raza Khan Khakwani - محمد علی رضا خان خاکوانی
-PP-237 (Bahawalnagar-I),Syed Asif Iqbal Bukhari - سید آصف اقبال بخاری
-PP-238 (Bahawalnagar-II),Shahzad Rasheed - شہزاد رشید
-PP-239 (Bahawalnagar-III),Muhammad Atif Aurangzeb - محمد عاطف اورنگزیب
-PP-240 (Bahawalnagar-IV),Muhammad Awais Asghar - محمد اویس اصغر
-PP-241 (Bahawalnagar-V),Ch Azam Ali Athar - چوہدری اعظم علی اطہر
-PP-242 (Bahawalnagar-VI),Kashif Naveed - کاشف نوید
-PP-243 (Bahawalnagar-VII),Khadija Khanum - خدیجہ خانم
-PP-244 (Bahawalnagar-VIII),Suraiya Sultan - ثریا سلطان
-PP-245 (Bahawalpur-I),Muhammad Ameer Hamza Khan - محمد امیر حمزہ خان
-PP-246 (Bahawalpur-II),Farzana Khalil - فرزانہ خلیل
-PP-247 (Bahawalpur-III),Muhammad Hakim Ali Randhawa - محمد حکیم علی رندھاوا
-PP-248 (Bahawalpur-IV),Hassan Khurshid Warraich - حسن خورشید وڑائچ
-PP-249 (Bahawalpur-V),Jawad Hafeez - جواد حفیظ
-PP-250 (Bahawalpur-VI),Mujeeb Ur Rehman Shahid - مجیب الرحمان شاہد
-PP-251 (Bahawalpur-VII),Raes Abdul Qayyum - رئیس عبدالقیوم
-PP-252 (Bahawalpur-VIII),Shafqat Shaheen - شفقت شاہین
-PP-253 (Bahawalpur-IX),Muhammad Asghar - محمد اصغر
-PP-254 (Bahawalpur-X),Ahmad Usman Chanchar - احمد عثمان چنڑ
-PP-255 (Rahim Yar Khan-I),Muhammad Iqbal Raes - محمد اقبال رئیس
-PP-256 (Rahim Yar Khan-II),Jam Muhammad Akbar - جام محمد اکبر
-PP-257 (Rahim Yar Khan-III),Gul Jahanzaib - گل جہانزیب
-PP-258 (Rahim Yar Khan-IV),Ch Muhammad Ejaz Shafi - چوہدری محمد اعجاز شفیع
-PP-259 (Rahim Yar Khan-V),Faisal Jameel - فیصل جمیل
-PP-260 (Rahim Yar Khan-VI),Saima Kanwal - صائمہ کنول
-PP-261 (Rahim Yar Khan-VII),Jam Amanullah - جام امان اللہ
-PP-262 (Rahim Yar Khan-VIII),Asif Majeed - آصف مجید
-PP-263 (Rahim Yar Khan-IX),Muhammad Naeem - محمد نعیم
-PP-264 (Rahim Yar Khan-X),Abdul Momin - عبدالمومن
-PP-265 (Rahim Yar Khan-XI),Sajjad Ahmed - سجاد احمد
-PP-266 (Rahim Yar Khan-XII),Ch Sami Ullah Jutt - چوہدری سمیع اللہ جٹ
-PP-267 (Rahim Yar Khan-XIII),Raes Muhammad Hamza - رئیس محمد حمزہ
-PP-268 (Muzaffargarh-I),Muhammad Younas - محمد یونس
-PP-269 (Muzaffargarh-II),Rashid Nadeem - راشد ندیم
-PP-270 (Muzaffargarh-III),Muhammad Zahid Ismael - محمد زاہد اسماعیل
-PP-271 (Muzaffargarh-IV),Mian Muhammad Imran - میاں محمد عمران
-PP-272 (Muzaffargarh-V),Rana Abdul Manan Sajid - رانا عبدالمنان ساجد
-PP-273 (Muzaffargarh-VI),Muhammad Dawood Khan - محمد داؤد خان
-PP-274 (Muzaffargarh-VII),Shahzad Rasool Khan - شہزاد رسول خان
-PP-275 (Muzaffargarh-VIII),Amna Qaim - آمنہ قائم
-PP-276 (Kot Addu-I),Rana Aurangzaib - رانا اورنگزیب
-PP-277 (Kot Addu-II),Nadia Khar - نادیہ کھر
-PP-278 (Kot Addu-III),Muhammad Ahsan Ali - محمد احسن علی
-PP-279 (Layyah-I),Muhammad Athar Maqbool - محمد اطہر مقبول
-PP-280 (Layyah-II),Shahab Ud Din Khan - شہاب الدین خان
-PP-281 (Layyah-III),Shoaib Ameer - شعیب امیر
-PP-282 (Layyah-IV),Usama Asghar Gujjar - اسامہ اصغر گجر
-PP-283 (Layyah-V),Ali Asghar Gurmani - علی اصغر گرمانی
-PP-284 (Taunsa-I),Muhammad Tahir - محمد طاہر
-PP-285 (Taunsa-II),Khawaja Salah Ud Din Akbar - خواجہ صلاح الدین اکبر
-PP-286 (D.G.Khan-I),Farhat Abbas Baloch - فرحت عباس بلوچ
-PP-287 (D.G.Khan-II),Akhlaq Ahmed - اخلاق احمد
-PP-288 (D.G.Khan-III),Malik Muhammad Iqbal Saqib - ملک محمد اقبال ثاقب
-PP-289 (D.G.Khan-IV),Sardar Ahmad Ali Khan Dhreshak - سردار احمد علی خان دریشک
-PP-290 (D.G.Khan-V),Sardar Mohiyudin Khan Khosa - سردار محی الدین خان کھوسہ
-PP-291 (D.G.Khan-VI),Muhammad Faheem Saeed - محمد فہیم سعید
-PP-292 (Rajanpur-I),Ahmad Nawaz - احمد نواز
-PP-293 (Rajanpur-II),Mirza Muhammad Yasir Mubeen - مرزا محمد یاسر مبین
-PP-294 (Rajanpur-III),Muhammad Atif Ali Dareshak - محمد عاطف علی دریشک
-PP-295 (Rajanpur-IV),Sardar Farooq Amanullah Dareshak - سردار فاروق امان اللہ دریشک
-PP-296 (Rajanpur-V),Sardar Muhammad Awais Dareshak - سردار محمد اویس دریشک
-PP-297 (Rajanpur-VI),Zahid Khan Mazari - زاہد خان مزاری
-
+PP-1 (Attock-I),Qazi Ahmed Akbar - قاضی احمد اکبر\
+PP-2 (Attock-II),Sardar Mohammad Ali Khan - سردار محمد علی خان\
+PP-3 (Attock-III),Syed Ijaz Hussain Bukhari - سید اعجاز حسین بخاری\
+PP-4 (Attock-IV),Sardar Shah Nawaz khan - سردار شاہ نواز خان\
+PP-5 (Attock-V),Malik Jamshaid Altaf - ملک جمشید الطاف\
+PP-6 (Murree),Zain Ul Abideen - زین العابدین\
+PP-7 (Rawalpindi-I),Muhammad Shabbir Awan - محمد شبیر اعوان\
+PP-8 (Rawalpindi-II),Javed Kausar - جاوید کوثر\
+PP-9 (Rawalpindi-III),Munir Ahmed - منیر احمد\
+PP-10 (Rawalpindi-IV),Chaudhary Muhammad Amir Afzal - چوہدری محمد امیر افضل\
+PP-11 (Rawalpindi-V),Chaudhry Muhammad Nazir - چوہدری محمد نذیر\
+PP-12 (Rawalpindi-VI),Saad Ali Khan - سعد علی خان\
+PP-13 (Rawalpindi-VII),Malik Fahad Masood - ملک فہد مسعود\
+PP-14 (Rawalpindi-VIII),Nasir Ali Khan - ناصر علی خان\
+PP-15 (Rawalpindi-IX),Ziyad Khaleek Kiyani - زیاد خلیق کیانی\
+PP-16 (Rawalpindi-X),Ijaz Khan - اعجاز خان\
+PP-17 (Rawalpindi-XI),Raja Rashid Hafeez - راجہ راشد حفیظ\
+PP-18 (Rawalpindi-XII),Asad Abbas - اسد عباس\
+PP-19 (Rawalpindi-XIII),Muhammad Tanveer Aslam - محمد تنویر اسلم\
+PP-20 (Chakwal-I),Ali Nasir Khan - علی ناصر خان\
+PP-21 (Chakwal-II),Tariq Mehmood Afzal - طارق محمود افضل\
+PP-22 (Chakwal-cum-Talagang),Nisar Ahmed - نثار احمد\
+PP-23 (Talagang),Sultan Surkhru Awan - سلطان سرخرو اعوان\
+PP-24 (Jehlum-I),Syed Riffat Mehmood - سید رفعت محمود\
+PP-25 (Jehlum-II),Yasir Mehmood Qureshi - یاسرمحمود  قریشی\
+PP-26 (Jehlum-III),Mushtaq Ahmad - مشتاق احمد\
+PP-27 (Gujrat-I),Nauman Ashraf - نعمان اشرف\
+PP-28 (Gujrat-II),Shahid Raza - شاہد رضا\
+PP-29 (Gujrat-III),Afia Noreen - عافیہ نورین\
+PP-30 (Gujrat-IV),Tanveer Ahmed - تنویر احمد\
+PP-31 (Gujrat-V),Mudassar Raza - مدثر رضا\
+PP-32 (Gujrat-VI),Chaudhry Pervaiz Elahi - چوہدری پرویز الٰہی\
+PP-33 (Gujrat-VII),Muhammad Omer Liaquat  -  محمدعمر لیاقت\
+PP-34 (Gujrat-VIII),Samaira Elahee Chauhan - ثمیرا الٰہی چوہان\
+PP-35 (Wazirabad-I),Muhammad Yousaf -  محمد یوسف\
+PP-36 (Wazirabad-II),Mohammed Ahmed Chattha - محمد احمد چٹھہ\
+PP-37 (Hafizabad-I),Ch. Muhammad Asad Ullah  -  چوہدری محمد اسد اللہ\
+PP-38 (Hafizabad-II),Zameer Ul Hassan Bhatti - ضمیر الحسن بھٹی\
+PP-39 (Hafizabad-III),Qamar Javed  - قمر جاوید\
+PP-40 (M.B.Din-I),Zarnab Sher -  زرناب شیر\
+PP-41 (M.B.Din-II),Baasima Chaudhary - باسمہ چوہدری\
+PP-42 (M.B.Din-III),Sajid Ahmad Khan - ساجد احمد خان\
+PP-43 (M.B.Din-IV),Chaudhary Muhammad Nawaz - چوہدری محمد نواز\
+PP-44 (Sialkot-I),Saeed Ahmad Bhalli - سعید احمد  بھلی\
+PP-45 (Sialkot-II),Umer Javed Ghuman - عمر جاوید گھمن\
+PP-46 (Sialkot-III),Ruba Umar - روبا عمر\
+PP-47 (Sialkot-IV),Muhammad Kashif - محمد کاشف\
+PP-48 (Sialkot-V),Ahsan Abbas - احسن عباس\
+PP-49 (Sialkot-VI),Munawar Ahmed Gill - منور احمد گل\
+PP-50 (Sialkot-VII),Aman Ullah -  امان اللہ\
+PP-51 (Sialkot-VIII),Waqass Iftikhar - وقاص افتخار\
+PP-52 (Sialkot-IX),Fakhir Nishat Ghumman - فاخر نشاط گھمن\
+PP-53 (Sialkot-X),Malik Jamshed Ghias - ملک جمشید غیاث\
+PP-54 (Narowal-I),Javed Mukhtar - جاوید مختار\
+PP-55 (Narowal-II),Arslan Hafeez - ارسلان حفیظ\
+PP-56 (Narowal-III),Aleem Tariq - علیم طارق\
+PP-57 (Narowal-IV),Rana Lal Badshah - رانا لعل بادشاہ\
+PP-58 (Narowal-V),Muhammad Irfan Abid -  محمدعرفان عابد\
+PP-59 (Gujranwala-I),Muhammad Nasir Cheema - محمد ناصر چیمہ\
+PP-60 (Gujranwala-II),Kaleem Ullah Khan - کلیم اللہ خان\
+PP-61 (Gujranwala-III),Tahir Majeed Khan - طاہر مجید خان\
+PP-62 (Gujranwala-IV),Rizwan Mustafa Sian - رضوان مصطفیٰ سیان\
+PP-63 (Gujranwala-V),Chaudhry Muhammad Tariq -   چوہدری محمد طارق\
+PP-64 (Gujranwala-VI),Chaudhry Muhammad Ali - چوہدری محمد علی\
+PP-65 (Gujranwala-VII),Hassan Ali - حسن  علی\
+PP-66 (Gujranwala-VIII),Rizwan Zafar Cheema - رضوان ظفر چیمہ\
+PP-67 (Gujranwala-IX),Ch Ali Wakeel Khan -  چوہدری علی وکیل خان\
+PP-68 (Gujranwala-X),Muhammad Arqam Khan - محمد ارقم خان\
+PP-69 (Gujranwala-XI),Umar Javed Virk - عمر جاوید ورک\
+PP-70 (Gujranwala-XII),Tashakul Abbas Warraich - تشکل عباس وڑائچ\
+PP-71 (Sargodha-I),Naeem Haider  - نعیم حیدر\
+PP-72 (Sargodha-II),Chaudhry Sohail Akhtar -  چوہدری سہیل اختر\
+PP-73 (Sargodha-III),Muhammad Ansar Iqbal -  محمد انصار اقبال\
+PP-74 (Sargodha-IV),Nadeem Muhammad Akram  - ندیم محمد اکرم\
+PP-75 (Sargodha-V),Ali Asif  - علی آصف\
+PP-76 (Sargodha-VI),Zulfiqar Ali - ذوالفقار علی\
+PP-77 (Sargodha-VII),Abdul Wahab Mumtaz Kahloon - عبدالوہاب ممتاز کاہلوں\
+PP-78 (Sargodha-VIII),Waqar Anwar  - وقار انور\
+PP-79 (Sargodha-IX),Ghulam Ali Asghar Khan Lahri - غلام علی اصغر خان لاہڑی\
+PP-80 (Sargodha-X),Chaudhry Iftikhar Hussain -  چوہدری افتخار حسین\
+PP-81 (Khushab-I),Hassan Malik -  حسن ملک\
+PP-82 (Khushab-II),Masood Anwar - مسعود انور\
+PP-83 (Khushab-III),Amjad Raza  - امجد رضا\
+PP-84 (Khushab-IV),Fateh Khaliq  - فتح خالق\
+PP-85 (Mianwali-I),Muhammad Iqbal -  محمد اقبال\
+PP-86 (Mianwali-II),Amin Ullah Khan - امین اللہ خان\
+PP-87 (Mianwali-III),Ahmad Khan  - احمد خان\
+PP-88 (Mianwali-IV),Mumtaz Ahmad - ممتاز احمد\
+PP-89 (Bhakkar-I),Muhammad Khan  - محمد خان\
+PP-90 (Bhakkar-II),Irfan Ullah Khan Niazi - عرفان اللہ خان  نیازی\
+PP-91 (Bhakkar-III),Akhtar Qasim  - اختر قاسم\
+PP-92 (Bhakkar-IV),Rafiq Ahmad Khan Niazi - رفیق احمد خان  نیازی\
+PP-93 (Bhakkar-V),Sikandar Ahmad Khan - سکندر احمد خان\
+PP-94 (Chiniot-I),Syed Muhammad Hassan Nawaz - سید محمد حسن نواز\
+PP-95 (Chiniot-II),Shoukat Ali - شوکت علی\
+PP-96 (Chiniot-III),Muhammad Hussain -  محمد حسین\
+PP-97 (Chiniot-IV),Saleem Bibi  - سلیم بی بی\
+PP-98 (Faisalabad-I),Junaid Afzal Sahi - جنید افضل ساہی\
+PP-99 (Faisalabad-II),Ahmad Mujtaba Chaudhary - احمد مجتبیٰ چوہدری\
+PP-100 (Faisalabad-III),Umair Wasi Chaudhary - عمیر وصی چوہدری\
+PP-101 (Faisalabad-IV),Muhammad Akram Chaudhary - محمد اکرم چوہدری\
+PP-102 (Faisalabad-V),Shaheer Dawood Butt - شہیر داؤد بٹ\
+PP-103 (Faisalabad-VI),Noor Shahid Noor - نور شاہد نور\
+PP-104 (Faisalabad-VII),Muhammad Farooq Arshad -  محمد فاروق ارشد\
+PP-105 (Faisalabad-VIII),Adil Pervaz  - عادل پرویز\
+PP-106 (Faisalabad-IX),Ahsan Raza - احسن رضا\
+PP-107 (Faisalabad-X),Javed Niaz Manj - جاوید نیاز منج\
+PP-108 (Faisalabad-XI),Aftab Ahmad Khan - آفتاب احمد خان\
+PP-109 (Faisalabad-XII),Hafiz Atta Ullah - حافظ عطاء اللہ\
+PP-110 (Faisalabad-XIII),Hassan Zaka  - حسن ذکاء\
+PP-111 (Faisalabad-XIV),Basharat Ali  - بشارت علی\
+PP-112 (Faisalabad-XV),Asad Mehmood - اسد محمود\
+PP-113 (Faisalabad-XVI),Nadeem Sadiq Dogar - ندیم صادق ڈوگر\
+PP-114 (Faisalabad-XVII),Muhammad Latif Nazar -  محمد لطیف نزر\
+PP-115 (Faisalabad-XVIII),Shahid Javed - شاہد جاوید\
+PP-116 (Faisalabad-XIX),Muhammad Ismael -  محمداسماعیل\
+PP-117 (Faisalabad-XX),Abdul Razzaq Khan - عبدالرزاق خان\
+PP-118 (Faisalabad-XXI),Khayal Ahmed  - خیال احمد\
+PP-119 (T.T Singh-I),Asad Zaman - اسد زمان\
+PP-120 (T.T Singh-II),Muhammad Ahsan Ihsan -  محمداحسن احسان\
+PP-121 (T.T Singh-III),Saeed Ahmad  - سعید احمد\
+PP-122 (T.T Singh-IV),Khawar Sher Ghadhi - خاور شیر گادھی\
+PP-123 (T.T Singh-V),Ashifa Riaz - آشفہ ریاض\
+PP-124 (T.T Singh-VI),Sonia  - سونیا\
+PP-125 (Jhang-I),Sardar Alhaj Ghulam Ahmad Khan Gaddi - سردار الحاج غلام احمد خان گاڈی\
+PP-126 (Jhang-II),Mehar Muhammad Nawaz  - مہر محمد نواز\
+PP-127 (Jhang-III),Sheikh Muhammad Akram - شیخ محمد اکرم\
+PP-128 (Jhang-IV),Ghazanfar Abbas Shah - غضنفر عباس شاہ\
+PP-129 (Jhang-V),Mian Muhammad Asif  - میاں محمد آصف\
+PP-130 (Jhang-VI),Shahbaz Ahmad  - شہباز احمد\
+PP-131 (Jhang-VII),Mian Muhammad Azam - میاں محمد اعظم\
+PP-132 (Nankana Sahib-I),Mian Ahsan Raza Wagha - میاں احسن رضا واہگہ\
+PP-133 (Nankana Sahib-II),Muhammad Atif - محمد عاطف\
+PP-134 (Nankana Sahib-III),Sohail Manzoor - سہیل منظور\
+PP-135 (Nankana Sahib-IV),Jameel Hassan Khan - جمیل حسن خان\
+PP-136 (Sheikhupura-I),Umar Aftab - عمر آفتاب\
+PP-137 (Sheikhupura-II),Khurram Ejaz - خرم اعجاز\
+PP-138 (Sheikhupura-III),Abuzar Maqsood Chadhar - ابوذر مقصود چدھڑ\
+PP-139 (Sheikhupura-IV),Ijaz Hussain - اعجاز حسین\
+PP-140 (Sheikhupura-V),Muhammad Awais - محمد اویس\
+PP-141 (Sheikhupura-VI),Tayyab Rashid - طیاب راشد\
+PP-142 (Sheikhupura-VII),Waqas Mahmood Maan - وقاص محمود مان\
+PP-143 (Sheikhupura-VIII),Sher Akbar Khan - شیر اکبر خان\
+PP-144 (Sheikhupura-IX),Muhammad Sarfaraz Dogar - محمد سرفراز ڈوگر\
+PP-145 (Lahore-I),Muhammad Yasir - محمد یاسر\
+PP-146 (Lahore-II),Junaid Razzaq - جنید رزاق\
+PP-147 (Lahore-III),Mohammad Khan Madni - محمد خان مدنی\
+PP-148 (Lahore-IV),Saba Deewan - صبا دیوان\
+PP-149 (Lahore-V),Zeeshan Rasheed - ذیشان رشید\
+PP-150 (Lahore-VI),Abdul Karim Khan - عبدالکریم خان\
+PP-151 (Lahore-VII),Hammad Ali - حماد علی\
+PP-152 (Lahore-VIII),Nouman Majeed - نعمان مجید\
+PP-153 (Lahore-IX),Mian Awais Anjum - میاں اویس انجم\
+PP-154 (Lahore-X),Shakeel Ahmad - شکیل احمد\
+PP-155 (Lahore-XI),Imtiaz Mehmood - امتیاز محمود\
+PP-156 (Lahore-XII),Ali Imtiaz - علی امتیاز\
+PP-157 (Lahore-XIII),Hafiz Farhat Abbas - حافظ فرحت عباس\
+PP-158 (Lahore-XIV),Yousaf Ali - یوسف علی\
+PP-159 (Lahore-XV),Mehar Sharafat Ali - مہر شرافت علی\
+PP-160 (Lahore-XVI),Azam Khan Niazi - اعظم خان نیازی\
+PP-161 (Lahore-XVII),Farrukh Javed - فرخ جاوید\
+PP-162 (Lahore-XVIII),Shabbir Ahmed - شبیر احمد\
+PP-163 (Lahore-XIX),Azeem Ullah Khan - عظیم اللہ خان\
+PP-164 (Lahore-XX),Muhammad Yousaf - محمد یوسف\
+PP-165 (Lahore-XXI),Ahmer Bhatti - احمر بھٹی\
+PP-166 (Lahore-XXII),Khalid Mehmood - خالد محمود\
+PP-167 (Lahore-XXIII),Ammar Bashir - عمار بشیر\
+PP-168 (Lahore-XXIV),Malik Nadeem Abbas - ملک ندیم عباس\
+PP-169 (Lahore-XXV),Mian Mehmood Ur Rasheed - میاں محمود الرشید\
+PP-170 (Lahore-XXVI),Mian Muhammad Haroon Akbar - میاں محمد ہارون اکبر\
+PP-171 (Lahore-XXVII),Mian Muhammad Aslam Iqbal - میاں محمد اسلم اقبال\
+PP-172 (Lahore-XXVIII),Misbah Wajid - مصباح واجد\
+PP-173 (Lahore-XXIX),Muhammad Zubair Khan Niazi - محمد زبیر خان نیازی\
+PP-174 (Lahore-XXX),Ch Muhammad Asghar - چوہدری محمد اصغر\
+PP-175 (Kasur-I),Rashid Tufail - راشد طفیل\
+PP-176 (Kasur-II),Muzammil Masood - مزمل مسعود\
+PP-177 (Kasur-III),Muhammad Saleem Mahar - محمد سلیم مہر\
+PP-178 (Kasur-IV),Shahid Masood - شاہد مسعود\
+PP-179 (Kasur-V),Sardar Nadir Farook Ali - سردار نادر فاروق علی\
+PP-180 (Kasur-VI),Waqas Hasan Moakal - وقاص حسن موکل\
+PP-181 (Kasur-VII),Hanbal Sana Kareem - حنبل ثناء کریم\
+PP-182 (Kasur-VIII),Aqeel Aslam - عقیل اسلم\
+PP-183 (Kasur-IX),Rana Almas Liaqat - رانا الماس لیاقت\
+PP-184 (Kasur-X),Rana Tanvir Riaz Khan - رانا تنویر ریاض خان\
+PP-185 (Okara-I),Mohammad Javed - محمد جاوید\
+PP-186 (Okara-II),Syed Gulzar Husnain - سید گلزار حسنین\
+PP-187 (Okara-III),Mian Muhammad Fiaz - میاں محمد فیاض\
+PP-188 (Okara-IV),Sardar Ali Haider Khan - سردار علی حیدر خان\
+PP-189 (Okara-V),Ch Tariq Irshad Khan - چوہدری طارق ارشاد خان\
+PP-190 (Okara-VI),Abdul Sattar - عبدالستار\
+PP-191 (Okara-VII),Muhammad Saleem Sadiq - محمد سلیم صادق\
+PP-192 (Okara-VIII),Hammad Aslam - حماد اسلم\
+PP-193 (Pakpattan-I),Rao Omar Hashim Khan - راؤ عمر ہاشم خان\
+PP-194 (Pakpattan-II),Mehr Moeenuddin Chishti - مہر معین الدین چشتی۔\
+PP-195 (Pakpattan-III),Salman Safdar - سلمان صفدر\
+PP-196 (Pakpattan-IV),Muhammad Naeem - محمد نعیم\
+PP-197 (Pakpattan-V),Tariq Qayyum Shah - طارق قیوم شاہ\
+PP-198 (Sahiwal-I),Sajjad Nasir - سجاد ناصر\
+PP-199 (Sahiwal-II),Ahmad Safdar Khan - احمد صفدر خان\
+PP-200 (Sahiwal-III),Ahmad Ali - احمد علی\
+PP-201 (Sahiwal-IV),Muhammad Yar - محمد یار\
+PP-202 (Sahiwal-V),Waheed Asghar - وحید اصغر\
+PP-203 (Sahiwal-VI),Rai Muhammad Murtaza Iqbal - رائے محمد مرتضیٰ اقبال\
+PP-204 (Sahiwal-VII),Muhammad Ghulam Sarwar - محمد غلام سرور\
+PP-205 (Khanewal-I),Muhammad Abdullah Nawaz Merali - محمد عبداللہ نواز مرالی\
+PP-206 (Khanewal-II),Syed Muhammad Hasnain Shah - سید محمد حسنین شاہ\
+PP-207 (Khanewal-III),Kanwar Tehseen Ashraf - کنور تحسین اشرف\
+PP-208 (Khanewal-IV),Muhammad Yousuf Khan - محمد یوسف خان\
+PP-209 (Khanewal-V),Humayun Khan - ہمایوں خان\
+PP-210 (Khanewal-VI),Khalid Javed - خالد جاوید\
+PP-211 (Khanewal-VII),Imran Parvez - عمران پرویز\
+PP-212 (Khanewal-VIII),Ghulam Murtaza - غلام مرتضیٰ\
+PP-213 (Multan-I),Haris Javed - حارث جاوید\
+PP-214 (Multan-II),Nawabzada Waseem Khan Badozai - نوابزادہ وسیم خان بادوزئی\
+PP-215 (Multan-III),Muhammad Moeen Ud Din Riaz - محمد معین الدین ریاض\
+PP-216 (Multan-IV),Muhammad Adnan Dogar - محمد عدنان ڈوگر\
+PP-217 (Multan-V),Muhammad Nadeem Qureshi - محمد ندیم قریشی\
+PP-218 (Multan-VI),Zahoor Ahmed - ظہور احمد\
+PP-219 (Multan-VII),Dalair Khan - دلیر خان\
+PP-220 (Multan-VIII),Zahid Behar Hashmi - زاہد بہار ہاشمی۔\
+PP-221 (Multan-IX),Makhdoom Syed Amir Abbas - مخدوم سید امیر عباس\
+PP-222 (Multan-X),Ayaz Ahmed - ایاز احمد\
+PP-223 (Multan-XI),Rana Tufail Ahmed Noon - رانا طفیل احمد نون\
+PP-224 (Multan-XII),Muhammad Arshad - محمد ارشد\
+PP-225 (Lodhran-I),Shazia Hayat  - شازیہ حیات\
+PP-226 (Lodhran-II),Razi Ullah Khan - رضی اللہ خان\
+PP-227 (Lodhran-III),Nawab Aman Ullah Khan - نواب امان اللہ خان\
+PP-228 (Lodhran-IV),Izzat Javed Khan - عزت جاوید خان\
+PP-229 (Vehari-I),Arfa Nazeer - عارفہ نذیر\
+PP-230 (Vehari-II),Salman Shahid - سلمان شاہد\
+PP-231 (Vehari-III),Khalid Zubair Nisar - خالد زبیر نثار\
+PP-232 (Vehari-IV),Abdul Waheed - عبدالوحید\
+PP-233 (Vehari-V),Rai Zahoor Ahmed - رائے ظہور احمد\
+PP-234 (Vehari-VI),Salman Ali Bhaba - سلمان علی بھابا۔\
+PP-235 (Vehari-VII),Muhammad Jahanzaib Khan Khichi - محمد جہانزیب خان کھچی\
+PP-236 (Vehari-VIII),Muhammad Ali Raza Khan Khakwani - محمد علی رضا خان خاکوانی\
+PP-237 (Bahawalnagar-I),Syed Asif Iqbal Bukhari - سید آصف اقبال بخاری\
+PP-238 (Bahawalnagar-II),Shahzad Rasheed - شہزاد رشید\
+PP-239 (Bahawalnagar-III),Muhammad Atif Aurangzeb - محمد عاطف اورنگزیب\
+PP-240 (Bahawalnagar-IV),Muhammad Awais Asghar - محمد اویس اصغر\
+PP-241 (Bahawalnagar-V),Ch Azam Ali Athar - چوہدری اعظم علی اطہر\
+PP-242 (Bahawalnagar-VI),Kashif Naveed - کاشف نوید\
+PP-243 (Bahawalnagar-VII),Khadija Khanum - خدیجہ خانم\
+PP-244 (Bahawalnagar-VIII),Suraiya Sultan - ثریا سلطان\
+PP-245 (Bahawalpur-I),Muhammad Ameer Hamza Khan - محمد امیر حمزہ خان\
+PP-246 (Bahawalpur-II),Farzana Khalil - فرزانہ خلیل\
+PP-247 (Bahawalpur-III),Muhammad Hakim Ali Randhawa - محمد حکیم علی رندھاوا\
+PP-248 (Bahawalpur-IV),Hassan Khurshid Warraich - حسن خورشید وڑائچ\
+PP-249 (Bahawalpur-V),Jawad Hafeez - جواد حفیظ\
+PP-250 (Bahawalpur-VI),Mujeeb Ur Rehman Shahid - مجیب الرحمان شاہد\
+PP-251 (Bahawalpur-VII),Raes Abdul Qayyum - رئیس عبدالقیوم\
+PP-252 (Bahawalpur-VIII),Shafqat Shaheen - شفقت شاہین\
+PP-253 (Bahawalpur-IX),Muhammad Asghar - محمد اصغر\
+PP-254 (Bahawalpur-X),Ahmad Usman Chanchar - احمد عثمان چنڑ\
+PP-255 (Rahim Yar Khan-I),Muhammad Iqbal Raes - محمد اقبال رئیس\
+PP-256 (Rahim Yar Khan-II),Jam Muhammad Akbar - جام محمد اکبر\
+PP-257 (Rahim Yar Khan-III),Gul Jahanzaib - گل جہانزیب\
+PP-258 (Rahim Yar Khan-IV),Ch Muhammad Ejaz Shafi - چوہدری محمد اعجاز شفیع\
+PP-259 (Rahim Yar Khan-V),Faisal Jameel - فیصل جمیل\
+PP-260 (Rahim Yar Khan-VI),Saima Kanwal - صائمہ کنول\
+PP-261 (Rahim Yar Khan-VII),Jam Amanullah - جام امان اللہ\
+PP-262 (Rahim Yar Khan-VIII),Asif Majeed - آصف مجید\
+PP-263 (Rahim Yar Khan-IX),Muhammad Naeem - محمد نعیم\
+PP-264 (Rahim Yar Khan-X),Abdul Momin - عبدالمومن\
+PP-265 (Rahim Yar Khan-XI),Sajjad Ahmed - سجاد احمد\
+PP-266 (Rahim Yar Khan-XII),Ch Sami Ullah Jutt - چوہدری سمیع اللہ جٹ\
+PP-267 (Rahim Yar Khan-XIII),Raes Muhammad Hamza - رئیس محمد حمزہ\
+PP-268 (Muzaffargarh-I),Muhammad Younas - محمد یونس\
+PP-269 (Muzaffargarh-II),Rashid Nadeem - راشد ندیم\
+PP-270 (Muzaffargarh-III),Muhammad Zahid Ismael - محمد زاہد اسماعیل\
+PP-271 (Muzaffargarh-IV),Mian Muhammad Imran - میاں محمد عمران\
+PP-272 (Muzaffargarh-V),Rana Abdul Manan Sajid - رانا عبدالمنان ساجد\
+PP-273 (Muzaffargarh-VI),Muhammad Dawood Khan - محمد داؤد خان\
+PP-274 (Muzaffargarh-VII),Shahzad Rasool Khan - شہزاد رسول خان\
+PP-275 (Muzaffargarh-VIII),Amna Qaim - آمنہ قائم\
+PP-276 (Kot Addu-I),Rana Aurangzaib - رانا اورنگزیب\
+PP-277 (Kot Addu-II),Nadia Khar - نادیہ کھر\
+PP-278 (Kot Addu-III),Muhammad Ahsan Ali - محمد احسن علی\
+PP-279 (Layyah-I),Muhammad Athar Maqbool - محمد اطہر مقبول\
+PP-280 (Layyah-II),Shahab Ud Din Khan - شہاب الدین خان\
+PP-281 (Layyah-III),Shoaib Ameer - شعیب امیر\
+PP-282 (Layyah-IV),Usama Asghar Gujjar - اسامہ اصغر گجر\
+PP-283 (Layyah-V),Ali Asghar Gurmani - علی اصغر گرمانی\
+PP-284 (Taunsa-I),Muhammad Tahir - محمد طاہر\
+PP-285 (Taunsa-II),Khawaja Salah Ud Din Akbar - خواجہ صلاح الدین اکبر\
+PP-286 (D.G.Khan-I),Farhat Abbas Baloch - فرحت عباس بلوچ\
+PP-287 (D.G.Khan-II),Akhlaq Ahmed - اخلاق احمد\
+PP-288 (D.G.Khan-III),Malik Muhammad Iqbal Saqib - ملک محمد اقبال ثاقب\
+PP-289 (D.G.Khan-IV),Sardar Ahmad Ali Khan Dhreshak - سردار احمد علی خان دریشک\
+PP-290 (D.G.Khan-V),Sardar Mohiyudin Khan Khosa - سردار محی الدین خان کھوسہ\
+PP-291 (D.G.Khan-VI),Muhammad Faheem Saeed - محمد فہیم سعید\
+PP-292 (Rajanpur-I),Ahmad Nawaz - احمد نواز\
+PP-293 (Rajanpur-II),Mirza Muhammad Yasir Mubeen - مرزا محمد یاسر مبین\
+PP-294 (Rajanpur-III),Muhammad Atif Ali Dareshak - محمد عاطف علی دریشک\
+PP-295 (Rajanpur-IV),Sardar Farooq Amanullah Dareshak - سردار فاروق امان اللہ دریشک\
+PP-296 (Rajanpur-V),Sardar Muhammad Awais Dareshak - سردار محمد اویس دریشک\
+PP-297 (Rajanpur-VI),Zahid Khan Mazari - زاہد خان مزاری\
+\
 # NA Punjab Candidtes 2024 (PTI)
 
 NA-1 (Chitral),Abdul Latif - عبد اللطیف
