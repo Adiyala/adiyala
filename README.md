@@ -299,7 +299,7 @@ PP-294 (Rajanpur-III),Muhammad Atif Ali Dareshak - محمد عاطف علی در
 PP-295 (Rajanpur-IV),Sardar Farooq Amanullah Dareshak - سردار فاروق امان اللہ دریشک  \
 PP-296 (Rajanpur-V),Sardar Muhammad Awais Dareshak - سردار محمد اویس دریشک  \
 PP-297 (Rajanpur-VI),Zahid Khan Mazari - زاہد خان مزاری  \
-  \
+  
 ## NA Punjab Candidtes 2024 (PTI)
 
 NA-1 (Chitral),Abdul Latif - عبد اللطیف  \
