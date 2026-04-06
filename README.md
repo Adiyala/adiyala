@@ -300,269 +300,270 @@ PP-297 (Rajanpur-VI),Zahid Khan Mazari - زاہد خان مزاری  \
   \
 # NA Punjab Candidtes 2024 (PTI)
 
-NA-1 (Chitral),Abdul Latif - عبد اللطیف
-NA-2 (Swat-I),Amjad Ali Khan - امجد علی خان
-NA-3 (Swat-II),Saleem Rehman - سلیم رحمان
-NA-4 (Swat-III),Sohail Sultan - سہیل سلطان
-NA-5 (UpperDir),Sahibzada Sibghatullah - صاحبزادہ صبغت اللہ
-NA-6 (LowerDir-I),Muhammad Bashir Khan - محمد بشیر خان
-NA-7 (LowerDir-II),Mehboob Shah - محبوب شاہ
-NA-8 (Bajaur),Gul Zafar Khan - گل ظفر خان
-NA-9 (Malakand),Junaid Akbar - جنید اکبر
-NA-10 (Buner),Gohar Ali Khan - گوہر علی خان
-NA-11 (Shangla),Said Fareen - سید فرین
-NA-12 (Kohistan),Taj Muhammad - تاج محمد
-NA-13 (Battagram),Muhammad Nawaz Khan - محمد نواز خان
-NA-14 (Mansehra-I),Muhammad Saleem Imran - محمد سلیم عمران
-NA-15 (Maneshra-II),Shehzada Muhammad Gustashap Khan - شہزادہ محمد گشتاسپ خان
-NA-16 (Abbottabad-I),Ali Asghar Khan - علی اصغرخان
-NA-17 (Abbottabad-II),Ali Khan Jadoon - علی خان جدون
-NA-18 (Haripur),Omar Ayub Khan - عمر ایوب خان
-NA-19 (Swabi-I),Asad Qaiser - اسد قیصر
-NA-20 (Swabi-ll),Shahram Khan - شہرام خان
-NA-21 (Mardan-l),Mujahid Ali - مجاہد علی
-NA-22 (Mardan-ll),Muhammad Atif - محمد عاطف
-NA-23 (Mardan-lll),Ali Muhammad - علی محمد
-NA-24 (Charsadda-l),Anwar Taj - انور تاج
-NA-25 (Charsadda-ll),Fazal Muhammad Khan - فضل محمد خان
-NA-26 (Mohmand),Sajid Khan - ساجد خان
-NA-27 (Khyber),Muhammad Iqbal Khan - محمد اقبال خان
-NA-28 (Peshawar-l),Sajid Nawaz Khan - ساجد نواز
-NA-29 (Peshawar-ll),Arbab Amir Ayub - ارباب عامر ایوب
-NA-30 (Peshawar-lll),Shandana Gulzar Khan - شاندانه گلزار خان
-NA-31 (Peshawar-lV),Sher Ali Arbab - شیر علی ارباب
-NA-32 (Peshawar-V),Asif Khan - آصف خان ولد
-NA-33 (Nowshera-l),Syed Shah Ahad Ali Shah - سید شاہ احد علی شاہ
-NA-34 (Nowshera-ll),Zulfiqar Ali - زولفقار علی
-NA-35 (Kohat),Shehryar Afridi - شہریار آفریدی
-NA-36 (Hangu/Orakzai),Yousaf Khan - یوسف خان
-NA-37 (Kurram),Hameed Hussain - حمید حسین
-NA-38 (Karak),Shahid Ahmad  - شاہد احمد
-NA-39 (Bannu),Naseem Ali Shah - نسیم علی شاہ
-NA-40 (North Waziristan),Aurangzeb Khan - اورنگزیب خان
-NA-41 (Lakki Marwat),Sher Afzal Khan - شیر افضل خان
-NA-42 (South Waziristan),Zubair Khan - زبیر خان
-NA-43 (Tank/Dera Ismail Khan),Dawar Khan Kundi - داور خان کنڈی
-NA-44 (Dera Ismail Khan-l),Ali Amin Khan - علی امین خان
-NA-45 (Dera Ismail Khan-ll),Shoaib Nasir - شعیب ناصر
-NA-46 (ICT-I),Aamer Masood - عامر مسعود
-NA-47 (ICT-ll),Muhammad Shoaib Shaheen - محمد شعیب شاہین
-NA-48 (ICT-lll),Syed Muhammad Ali Bokhari - سید محمد علی بخاری
-NA-49 (Attock-l),Tahir Sadiq - طاہر صادق
-NA-50 (Attock-ll),Eman Waseem - ایمان وسیم
-NA-51 (Murree),Muhammad Latasob Satti - محمد لطاسب ستی
-NA-52 (Rawalpindi-l),Tariq Aziz Bhatti - طارق عزیز بھٹی
-NA-53 (Rawalpindi-ll),Ajmal Sabir Raja - اجمل صابر راجہ
-NA-54 (Rawalpindi-lll),Azra Masood - عذرا مسعود
-NA-55 (Rawalpindi-lV),Muhammad Basharat Raja - محمد بشارت راجہ
-NA-56 (Rawalpindi-V),Shehryar Riaz - شہریار ریاض
-NA-57 (Rawalpindi-Vl),Seemabia Tahir - سیمابیہ طاہر
-NA-58 (Chakwal),Ayaz Amir - ایاز امیر
-NA-59 (TalagangcumChakwal),Muhammad Roman Ahmed - محمد رومان احمد
-NA-60 (Jhelum-l),Hassan Adeel - حسن عدیل
-NA-61 (Jhelum-ll),Shaukat Iqbal Mirza - شوکت اقبال مرزا
-NA-62 (Gujrat-l),Chaudhary Ilyas - چوہدری الیاس
-NA-63 (Gujrat-ll),Sajid Yousaf - ساجد یوسف
-NA-64 (Gujrat-lll),Qaisara Elahi - قیصرہ  الہی
-NA-65 (Gujrat-lV),Syed Wajahat Shah - سید وجاہت شاہ
-NA-66 (Wazirabad),Muhammad Ahmed Chattha - محمد احمد چھٹہ
-NA-67 (Hafizabad),Aniqa Mehdi - انیقہ مہدی
-NA-68 (M.B.Din-l),Haji Imtiaz Ahmed Choudhry - حاجی امتیاز احمد چوہدری
-NA-69 (M.B.Din-ll),Kousar Parveen - کوثر پروین
-NA-70 (Sialkot-l),Hafiz Hamid Raza - حافظ حامد رضا
-NA-71 (Sialkot-ll),Rehana Imtiaz Dar - ریحانہ امتیاز ڈار
-NA-72 (Sialkot-lll),Amjad Ali Bajwa - چوہدری امجد علی باجوہ
-NA-73 (Sialkot-IV),Ali Asjid Malhi - علی اسجد ملہی
-NA-74 (Sialkot-V),Muhammad Aslam Ghumman - محمد اسلم گھمن
-NA-75 (Narowal-l),Tahir Ali Javed - طاہر علی جاوید
-NA-76 (Narowal-ll),Javaid Safdar Kahlon - جاوید صفدر کاھلوں
-NA-77 (Gujranwala-l),Rashida Tariq - راشدہ طارق
-NA-78 (Gujranwala-ll),Muhammad Mobeen Arif - محمد مبین عارف
-NA-79 (Gujranwala-lll),Ihsan Ullah Virk - احسان اللہ ورک
-NA-80 (Gujranwala-lV),Lala Asad Ullah - لالہ اسد اللہ
-NA-81 (Gujranwala-V),Ch Bilal Ejaz - چوہدری بلال اعجاز
-NA-82 (Sargodha-l),Haroon Ihsan Piracha - ہارون احسان پراچہ
-NA-83 (Sargodha-ll),Usama Ahmed Mela - اسامہ احمد میلہ
-NA-84 (Sargodha-lll),Shafqat Abbas - شفقت عباس
-NA-85 (Sargodha-lV),Khuda Dad - خدا داد
-NA-86 (Sargodha-V),Muhammad Miqdad Ali Khan - محمد مقداد علی خان
-NA-87 (Khushab-l),Umar Aslam Khan - عمر اسلم خان
-NA-88 (Khushab-ll),Muhammad Akram Khan - محمد اکرم خان
-NA-89 (Mianwali-l),Muhammad Jamal Ahsan Khan - محمد جمال احسن خان
-NA-90 (Mianwali-ll),Umair Khan Niazi - عمیر خان نیازی
-NA-91 (Bhakkar-l),M Sana Ullah Khan Mastikhel - محمد  ثنااللہ خان مستی خیل
-NA-92 (Bhakkar-ll),Zaheer Abbas Naqvi - ظہیر عباس نقوی
-NA-93 (Chiniot-l),Ghulam Muhammad - غلام محمد
-NA-94 (Chiniot-ll),Muhammad Khalid - محمد خالد
-NA-95 (Faisalabad-l),Ali Afzal Sahi - علی افضل ساہی
-NA-96 (Faisalabad-ll),Rai Haider Ali Khan - رائے حیدر علی خان
-NA-97 (Faisalabad-lll),Muhammad Saad Ullah - محمد سعد اللہ
-NA-98 (Faisalabad-lV),Mumtaz Ahmad - ممتاز احمد
-NA-99 (Faisalabad-V),Umar Farooq - عمر فاروق
-NA-100 (Faisalabad-Vl),Nisar Ahmad - نثار احمد
-NA-101 (Faisalabad-Vll),Rana Atif - رانا عاطف
-NA-102 (Faisalabad-Vlll),Changez Ahmad Khan - چنگیز احمد خان
-NA-103 (Faisalabad-lX),Muhammad Ali Sarfraz - محمد علی سرفراز
-NA-104 (Faisalabad-X),Sahibzada Muhammad Hamid Raza - صاحبزادہ محمد حامد رضا
-NA-105 (T.T.Singh-l),Usama Hamza - اسامه حمزه
-NA-106 (T.T.Singh-ll),Khalid Nawaz - خالد نواز
-NA-107 (T.T.Singh-lll),Mohammad Riaz Khan - محمد ریاض خان
-NA-108 (Jhang-l),Muhammad Mahbob Sultan - محمد محبوب سلطان
-NA-109 (Jhang-ll),Waqas Akram - وقاص اکرم
-NA-110 (Jhang-lll),Muhammad Ameer Sultan - محمد امیر سلطان
-NA-111 (NankanaSahib-l),Muhammad Arshad Sahi - محمد ارشد ساہی
-NA-112 (NankanaSahib-ll),Ijaz Ahmad Shah - اعجاز احمد شاہ
-NA-113 (Sheikhupura-l),Rahat Aman Ullah Bhatti - راحت امان اللہ بھٹی
-NA-114 (Sheikhupura-ll),Arshad Mehmood Chaudhary - ارشد محمود چودھری
-NA-115 (Sheikhupura-lll),Khurram Shahzad Virk - خرم شہزاد ورک
-NA-116 (Sheikhupura-lV),Khurram Munawar Manj - خرم منور منج
-NA-117 (Lahore-l),Ali Ijaz - علی اعجاز
-NA-118 (Lahore-ll),Aliya Hamza Malik - عالیہ حمزہ ملک
-NA-119 (Lahore-lll),Shehzad Farooq - شہزاد فاروق
-NA-120 (Lahore-lV),Usman Hamza - عثمان حمزہ
-NA-121 (Lahore-V),Waseem Qadir - وسیم قادر
-NA-122 (Lahore-Vl),Sardar Muhammad Latif Khan Khosa - سردار محمد لطیف خان کھوسہ
-NA-123 (Lahore-Vll),Afzaal Azeem Pahat - افضال عظیم پاہٹ
-NA-124 (Lahore-Vlll),Zameer Ahmad - ضمیراحمد
-NA-125 (Lahore-IX),Javaid Umar - جاوید عمر
-NA-126 (Lahore-X),Malik Touqeer Abbas Khokhar - ملک توقیر عباس کھوکھر
-NA-127 (Lahore-Xl),Malik Zaheer Abbas - ملک ظہیر عباس
-NA-128 (Lahore-Xll),Salman Akram Raja - سلمان اکرم راجہ
-NA-129 (Lahore-Xlll),Mian Muhammad Azhar - میاں محمد اظہر
-NA-130 (Lahore-XlV),Yasmin Rashid - یاسمین راشد
-NA-131 (Kasur-l),Muhammad Maqsood Sabir Ansari - محمد مقصود صابر انصاری
-NA-132 (Kasur-ll),Sardar Muhammad Hussain Dogar - سردار محمد حسین ڈوگر
-NA-133 (Kasur-lll),Azim Uddin Zahid - عظیم الدین زاہد
-NA-134 (Kasur-lV),Sidra Faisal - سدرہ فیصل
-NA-135 (Okara-l),Malik Muhammad Akram Bhatti - ملک محمد اکرم بھٹی
-NA-136 (Okara-ll),Rao Hassan Sikandar - راؤ حسن سکندر
-NA-137 (Okara-lll),Syed Raza Ali Gillani - سید رضا علی گیلانی
-NA-138 (Okara-IV),Arshad Ali - ارشد علی
-NA-139 (Pakpattan-l),Rao Omar Hashim Khan - راؤ عمر ہاشم خان
-NA-140 (Pakpattan-ll),Raja Talia Saeed - راجہ طالع سعید
-NA-141 (Sahiwal-l),Rana Amir Shahzad Tahir - رانا عامرشہزاد طاہر
-NA-142 (Sahiwal-ll),Usman Ali - عثمان علی
-NA-143 (Sahiwal-lll),Rai Hassan Nawaz Khan - رائے حسن نواز خان
-NA-144 (Khanewal-l),Muhammad Ahsan - محمد احسان
-NA-145 (Khanewal-ll),Abid Mahmood - عابد محمود
-NA-146 (Khanewal-lll),Muhammad Imran Shah - محمد عمران شاہ
-NA-147 (Khanewal-lV),Naveed Hameed - نوید حمید
-NA-148 (Multan-l),Taimur Altaf Malik - تیمور الطاف ملک
-NA-149 (Multan-ll),Malik Muhammad Aamir Dogar - ملک محمد عامر ڈوگر
-NA-150 (Multan-lll),Zain Qureshi - مخدوم زین حسین قریشی
-NA-151 (Multan-lV),Mehar Bano Qureshi - مہر بانو قریشی
-NA-152 (Multan-V),Muhammad Imran Shaukat Khan - محمد عمران شوکت خان
-NA-153 (Multan-Vl),Riaz Hussain Laang - ریاض حسین لانگ
-NA-154 (Lodhran-l),Rana Muhammad Faraz Noon - رانا محمد فراز نون
-NA-155 (Lodhran-ll),RAO MUHAMMAD QASIM - راؤ محمد قاسم
-NA156,Not Found
-NA-157 (Vehari-ll),Sabeen Safdar - سبین صفدر
-NA-158 (Vehari-lll),Tahir Iqbal - طاہر اقبال
-NA-159 (Vehari-lV),Aurangzeb Khan Khichi - اورنگزیب خان کھچی
-NA-160 (Bahawalnagar-l),Noor Muhammad Ghifari - نور محمد غفاری
-NA-161 (Bahawalnagar-ll),Shahid Amin - شاہد امین
-NA-162 (Bahawalnagar-lll),Ch Khalil Arain - خلیل آراین
-NA-163 (Bahawalnagar-lV),Shaukat Basra - شوکت بسرا
-NA-164 (Bahawalpur-l),Malik Ejaz Ahmad Guddan - ملک اعجاز احمد گڈن
-NA-165 (Bahawalpur-ll),Basharat Ali - بشارت علی
-NA-166 (Bahawalpur-lll),Kanwal Shauzab - کنول شوذب
-NA-167 (Bahawalpur-lV),Mahboob Ahmad - محبوب احمد
-NA-168 (Bahawalpur-V),Sami Ullah Chaudhary - سمیع اللہ چوہدری
-NA-169 (RahimYarKhan-l),Raja Muhammad Saleem - راجہ محمد سلیم
-NA-170 (RahimYarKhan-ll),Mian Ghous Muhammad - میاں غوث محمد
-NA-171 (RahimYarKhan-lll),Mumtaz Mustafa - ممتاز مصطفیٰ
-NA-172 (RahimYarKhan-lV),Javaid Iqbal - جاوید اقبال
-NA-173 (RahimYarKhan-V),Mohammad Nabeel Dahir - محمد نبیل ڈاہر
-NA-174 (RahimYarKhan-Vl),Rais Muhammad Mahboob Ahmed - رئیس محمد محبوب احمد
-NA-175 (Muzaffargarh-l),Jamshaid Ahmad - جمشید احمد
-NA-176 (Muzaffargarh-ll),Nawabzada Muhammad Ahmad Khan Babar - نوابزادہ محمد احمد خان بابر
-NA-177 (Muzaffargarh-lll),Muhammad Moazzam Ali Khan - محمد معظم علی خان
-NA-178 (Muzaffargarh-lV),Abdul Qayum Khan Jatoi - عبدالقیوم خان جتوئی
-NA-179 (KotAddu-l),Muhammad Shabbir Ali Qureshi - محمد شبیر علی قریشی
-NA-180 (KotAddu-ll),Fiaz Hussain - فیاض حسین
-NA-181 (Layyah-l),Umber Majeed - عنبر مجید
-NA-182 (Layyah-ll),Awais Haider Jhakar - اویس حیدر جکھڑ
-NA-183 (Taunsa),Khawaja Sheraz Mehmood - خواجہ شیراز محمود
-NA-184 (D.G.Khan-l),Ali Muhammad - علی محمد
-NA-185 (D.G.Khan-ll),Zartaj Gul - زرتاج گل
-NA-186 (D.G.Khan-lll),Sajjad Hussain - سجاد حسین
-NA-187 (Rajanpur-l),Muhammad Atif Ali Dreshak - محمد عاطف علی دریشک
-NA-188 (Rajanpur-ll),Sardar Ahmad Ali Khan Drishak - سردار احمد علی خان دریشک
-NA-189 (Rajanpur-lll),Zahid Khan Mazari - زاہد خان مزاری
-NA-190 (Jacobabad),To be uploaded -
-NA-191 (Jacobabad-Cum-Kashmore),To be uploaded -
-NA-192 (Kashmore-Cum-Shikarpur),Muhammad Alam - محمد عالم
-NA-193 (Shikarpur),Maqsood Ali - مقصود علی
-NA-194 (Larkana-l),Tarique Hussain - طارق حسین
-NA-195 (Larkana-ll),Qazi Manzoor Ahmed -
-NA-196 (KamberShahdadkot-l),Naheed Khawar - ناہید خاور
-NA-197 (KamberShahdadkot-ll),Muhammad Ali Hakro - محمد علی حکرو
-NA-198 (Ghotki-l),Abdul Sattar - عبدالستار
-NA-199 (Ghotki-ll),To be uploaded -
-NA-200 (Sukkur-l),Gohar Khoso - گوهر علی خوسو
-NA-201 (Sukkur-ll),To be uploaded -
-NA-202 (Khairpur-l),Ambareen Malik - امبرین ملک
-NA-203 (Khairpur-ll),Jameel Ahmed Lund - جمیل احمد لنڈبلوچ
-NA-204 (Khairpur-lll),Syed Niaz Hussain Shah Jillani - سید نیاز حسین شاہ جیلانی
-NA-205 (NaushahroFeroze-l),To be uploaded -
-NA-206 (NaushahroFeroze-ll),Amanullah - امان اللہ
-NA-207 (ShaheedBenazirabad-l),Sardar Sher Muhammad Rind Baloch - سردار شیر محمد رند بلوچ
-NA-208 (ShaheedBenazirabad-ll),Gul Muhammad Rind - گل محمد رند
-NA-209 (Sanghar-l),Hameeda Masood Shah - حمیدہ مسعود شاہ
-NA-210 (Sanghar-ll),Manochaher - منو چھر
-NA-211 (Mirpurkhas-l),Abdul Haque - عبدالحق
-NA-212 (Mirpurkhas-ll),Syed Mumtaz Ali Shah - سید ممتازعلی شاہ
-NA-213 (Umerkot),Lalchand - لالچند
-NA-214 (Tharparkar-l),Zain Hussain Qureshi - مخدوم زین حسین قریشی
-NA-215 (Tharparkar-ll),Mehar u Nisa Baloch - مہر النساء بلوچ
-NA-216 (Matiari),Nazish Bhatti - نازش بھٹی
-NA-217 (Tando Allahyar),Rozeena - روزینہ
-NA-218 (Hyderabad-l),-
-NA-219 (Hyderabad-ll),Mustansir Billah - مستنصر باللہ
-NA-220 (Hyderabad-lll),Faisal Mughal - فیصل مغل
-NA-221 (TandoMuhammadKhan),Muhammad Irfan - محمد عرفان
-NA-222 (Badin-l),Shah Nawaz - شاہنواز
-NA-223 (Badin-ll),Azizullah Dero - عزیزاللہ ڈیرو
-NA-224 (Sajawal),Syed Mumtaz Ali Shah - ممتاز علی شاہ
-NA-225 (Thatta),Syed Jameel Ahmed Shah Bukhari - سید جمیل احمد شاہ بخاری
-NA-226 (Jamshoro),Abdul Hakeem Chandio - عبدالحکیم چانڈیو
-NA-227 (Dadu-l),Shabana Nawab - شبانہ نواب
-NA-228 (Dadu-ll),Zulfiqar Ali Malha - ذوالفقارعلی ملاح
-NA-229 (Malir-l),Wali Muhammad - ولی محمد
-NA-230 (Malir-ll),Masroor Ali - مسرور علی
-NA-231 (Malir-lll),Khalid Mehmood Ali - خالد محمود علی
-NA-232 (KarachiKorangi-l),Adeel Ahmad - عدیل احمد
-NA-233 (KarachiKorangi-ll),Muhammad Haris - محمد حارث
-NA-234 (KarachiKorangi-lll),Faheem Khan - فھیم خان
-NA-235 (KarachiEast-l),Saif ur Rehman Son of Taj Alam Khan - سیف الرحمن بن تاج عالم خان
-NA-236 (KarachiEast-ll),Muhammad Alamgir Khan - محمد عالمگیر خان
-NA-237 (KarachiEast-lll),Zahoor Ud Din - ظہور الدین
-NA-238 (KarachiEast-lV),Haleem Adil Sheikh - حلیم عادل شیخ
-NA-239 (KarachiSouth-l),Muhammad Yasir - محمد یاسر
-NA-240 (KarachiSouth-ll),Ramzan - رمضان
-NA-241 (KarachiSouth-lll),Khurram Sher Zaman - خرم شیر زمان
-NA-242 (KarachiKeamari-l),Dawa Khan - دوا خان
-NA-243 (KarachiKeamari-ll),Shujaat Ali - شجاعت علی
-NA-244 (KarachiWest-l),Aftab Jahangir - آفتاب جہانگیر
-NA-245 (KarachiWest-ll),Ata Ullah  - عطاء الله
-NA-246 (KarachiWest-lll),Malik Arif Awan - ملک محمد عارف اعوان
-NA-247 (KarachiCentral-l),Syed Abbas Husnain - سید عباس حسنین
-NA-248 (KarachiCentral-ll),Arslan Khalid - ارسلان خالد
-NA-249 (KarachiCentral-lll),Barrister Uzair Ghouri - عزیر غوری
-NA-250 (KarachiCentral-lV),Riaz Hyder - محمد ریاض حیدر
-NA-251 (Sherani),Dawood Ullah - داوود الله
-NA-252 (MusaKhail),Sardar Babar Musakhel - سردار بابرخان موسیٰ خیل
-NA-253 (Ziarat),Saddam - صدام
-NA-254 (Jhal Magsi),Peer Bakhsh - پیر بخش
-NA-255 (SohbatPur),Muhammad Arif Murad - محمد عارف مراد
-NA-256 (Khuzdar),To be uploaded -
-NA-257 (Hub-cum-Lasbela),Mir Ali Ahmad Zehri - میر علی احمد زہری
-NA-258 (Panjgur-cum-Kech),To be uploaded -
-NA-259 (Kech-cum-Gwadar),To be uploaded -
-NA-260 (Chagai),Ghulam Qadir - غلام قادر
-NA-261 (Surab),To be uploaded -
-NA-262 (Quetta-l),Adil Khan Bazai - عادل خان بازئ
-NA-263 (Quetta-ll),Salar Khan Kakar - سالار خان کاکڑ
-NA-264 (Quetta-lll),Zain ul abidin Khan - زین العابدین خان
-NA-265 (Pishin),Syed Zahoor Ahmed - سید ظہور احمد
-NA-266 (KillaAbdullah),Malik Asmatullah Khan Kakar - ملک عصمت اللہ خان کاکڑ
+NA-1 (Chitral),Abdul Latif - عبد اللطیف  \
+NA-2 (Swat-I),Amjad Ali Khan - امجد علی خان  \
+NA-3 (Swat-II),Saleem Rehman - سلیم رحمان  \
+NA-4 (Swat-III),Sohail Sultan - سہیل سلطان  \
+NA-5 (UpperDir),Sahibzada Sibghatullah - صاحبزادہ صبغت اللہ  \
+NA-6 (LowerDir-I),Muhammad Bashir Khan - محمد بشیر خان  \
+NA-7 (LowerDir-II),Mehboob Shah - محبوب شاہ  \
+NA-8 (Bajaur),Gul Zafar Khan - گل ظفر خان  \
+NA-9 (Malakand),Junaid Akbar - جنید اکبر  \
+NA-10 (Buner),Gohar Ali Khan - گوہر علی خان  \
+NA-11 (Shangla),Said Fareen - سید فرین  \
+NA-12 (Kohistan),Taj Muhammad - تاج محمد  \
+NA-13 (Battagram),Muhammad Nawaz Khan - محمد نواز خان  \
+NA-14 (Mansehra-I),Muhammad Saleem Imran - محمد سلیم عمران  \
+NA-15 (Maneshra-II),Shehzada Muhammad Gustashap Khan - شہزادہ محمد گشتاسپ خان  \
+NA-16 (Abbottabad-I),Ali Asghar Khan - علی اصغرخان  \
+NA-17 (Abbottabad-II),Ali Khan Jadoon - علی خان جدون  \
+NA-18 (Haripur),Omar Ayub Khan - عمر ایوب خان  \
+NA-19 (Swabi-I),Asad Qaiser - اسد قیصر  \
+NA-20 (Swabi-ll),Shahram Khan - شہرام خان  \
+NA-21 (Mardan-l),Mujahid Ali - مجاہد علی  \
+NA-22 (Mardan-ll),Muhammad Atif - محمد عاطف  \
+NA-23 (Mardan-lll),Ali Muhammad - علی محمد  \
+NA-24 (Charsadda-l),Anwar Taj - انور تاج  \
+NA-25 (Charsadda-ll),Fazal Muhammad Khan - فضل محمد خان  \
+NA-26 (Mohmand),Sajid Khan - ساجد خان  \
+NA-27 (Khyber),Muhammad Iqbal Khan - محمد اقبال خان  \
+NA-28 (Peshawar-l),Sajid Nawaz Khan - ساجد نواز  \
+NA-29 (Peshawar-ll),Arbab Amir Ayub - ارباب عامر ایوب  \
+NA-30 (Peshawar-lll),Shandana Gulzar Khan - شاندانه گلزار خان  \
+NA-31 (Peshawar-lV),Sher Ali Arbab - شیر علی ارباب  \
+NA-32 (Peshawar-V),Asif Khan - آصف خان ولد  \
+NA-33 (Nowshera-l),Syed Shah Ahad Ali Shah - سید شاہ احد علی شاہ  \
+NA-34 (Nowshera-ll),Zulfiqar Ali - زولفقار علی  \
+NA-35 (Kohat),Shehryar Afridi - شہریار آفریدی  \
+NA-36 (Hangu/Orakzai),Yousaf Khan - یوسف خان  \
+NA-37 (Kurram),Hameed Hussain - حمید حسین  \
+NA-38 (Karak),Shahid Ahmad  - شاہد احمد  \
+NA-39 (Bannu),Naseem Ali Shah - نسیم علی شاہ  \
+NA-40 (North Waziristan),Aurangzeb Khan - اورنگزیب خان  \
+NA-41 (Lakki Marwat),Sher Afzal Khan - شیر افضل خان  \
+NA-42 (South Waziristan),Zubair Khan - زبیر خان  \
+NA-43 (Tank/Dera Ismail Khan),Dawar Khan Kundi - داور خان کنڈی  \
+NA-44 (Dera Ismail Khan-l),Ali Amin Khan - علی امین خان  \
+NA-45 (Dera Ismail Khan-ll),Shoaib Nasir - شعیب ناصر  \
+NA-46 (ICT-I),Aamer Masood - عامر مسعود  \
+NA-47 (ICT-ll),Muhammad Shoaib Shaheen - محمد شعیب شاہین  \
+NA-48 (ICT-lll),Syed Muhammad Ali Bokhari - سید محمد علی بخاری  \
+NA-49 (Attock-l),Tahir Sadiq - طاہر صادق  \
+NA-50 (Attock-ll),Eman Waseem - ایمان وسیم  \
+NA-51 (Murree),Muhammad Latasob Satti - محمد لطاسب ستی  \
+NA-52 (Rawalpindi-l),Tariq Aziz Bhatti - طارق عزیز بھٹی  \
+NA-53 (Rawalpindi-ll),Ajmal Sabir Raja - اجمل صابر راجہ  \
+NA-54 (Rawalpindi-lll),Azra Masood - عذرا مسعود  \
+NA-55 (Rawalpindi-lV),Muhammad Basharat Raja - محمد بشارت راجہ  \
+NA-56 (Rawalpindi-V),Shehryar Riaz - شہریار ریاض  \
+NA-57 (Rawalpindi-Vl),Seemabia Tahir - سیمابیہ طاہر  \
+NA-58 (Chakwal),Ayaz Amir - ایاز امیر  \
+NA-59 (TalagangcumChakwal),Muhammad Roman Ahmed - محمد رومان احمد  \
+NA-60 (Jhelum-l),Hassan Adeel - حسن عدیل  \
+NA-61 (Jhelum-ll),Shaukat Iqbal Mirza - شوکت اقبال مرزا  \
+NA-62 (Gujrat-l),Chaudhary Ilyas - چوہدری الیاس  \
+NA-63 (Gujrat-ll),Sajid Yousaf - ساجد یوسف  \
+NA-64 (Gujrat-lll),Qaisara Elahi - قیصرہ  الہی  \
+NA-65 (Gujrat-lV),Syed Wajahat Shah - سید وجاہت شاہ  \
+NA-66 (Wazirabad),Muhammad Ahmed Chattha - محمد احمد چھٹہ  \
+NA-67 (Hafizabad),Aniqa Mehdi - انیقہ مہدی  \
+NA-68 (M.B.Din-l),Haji Imtiaz Ahmed Choudhry - حاجی امتیاز احمد چوہدری  \
+NA-69 (M.B.Din-ll),Kousar Parveen - کوثر پروین  \
+NA-70 (Sialkot-l),Hafiz Hamid Raza - حافظ حامد رضا  \
+NA-71 (Sialkot-ll),Rehana Imtiaz Dar - ریحانہ امتیاز ڈار  \
+NA-72 (Sialkot-lll),Amjad Ali Bajwa - چوہدری امجد علی باجوہ  \
+NA-73 (Sialkot-IV),Ali Asjid Malhi - علی اسجد ملہی  \
+NA-74 (Sialkot-V),Muhammad Aslam Ghumman - محمد اسلم گھمن  \
+NA-75 (Narowal-l),Tahir Ali Javed - طاہر علی جاوید  \
+NA-76 (Narowal-ll),Javaid Safdar Kahlon - جاوید صفدر کاھلوں  \
+NA-77 (Gujranwala-l),Rashida Tariq - راشدہ طارق  \
+NA-78 (Gujranwala-ll),Muhammad Mobeen Arif - محمد مبین عارف  \
+NA-79 (Gujranwala-lll),Ihsan Ullah Virk - احسان اللہ ورک  \
+NA-80 (Gujranwala-lV),Lala Asad Ullah - لالہ اسد اللہ  \
+NA-81 (Gujranwala-V),Ch Bilal Ejaz - چوہدری بلال اعجاز  \
+NA-82 (Sargodha-l),Haroon Ihsan Piracha - ہارون احسان پراچہ  \
+NA-83 (Sargodha-ll),Usama Ahmed Mela - اسامہ احمد میلہ  \
+NA-84 (Sargodha-lll),Shafqat Abbas - شفقت عباس  \
+NA-85 (Sargodha-lV),Khuda Dad - خدا داد  \
+NA-86 (Sargodha-V),Muhammad Miqdad Ali Khan - محمد مقداد علی خان  \
+NA-87 (Khushab-l),Umar Aslam Khan - عمر اسلم خان  \
+NA-88 (Khushab-ll),Muhammad Akram Khan - محمد اکرم خان  \
+NA-89 (Mianwali-l),Muhammad Jamal Ahsan Khan - محمد جمال احسن خان  \
+NA-90 (Mianwali-ll),Umair Khan Niazi - عمیر خان نیازی  \
+NA-91 (Bhakkar-l),M Sana Ullah Khan Mastikhel - محمد  ثنااللہ خان مستی خیل  \
+NA-92 (Bhakkar-ll),Zaheer Abbas Naqvi - ظہیر عباس نقوی  \
+NA-93 (Chiniot-l),Ghulam Muhammad - غلام محمد  \
+NA-94 (Chiniot-ll),Muhammad Khalid - محمد خالد  \
+NA-95 (Faisalabad-l),Ali Afzal Sahi - علی افضل ساہی  \
+NA-96 (Faisalabad-ll),Rai Haider Ali Khan - رائے حیدر علی خان  \
+NA-97 (Faisalabad-lll),Muhammad Saad Ullah - محمد سعد اللہ  \
+NA-98 (Faisalabad-lV),Mumtaz Ahmad - ممتاز احمد  \
+NA-99 (Faisalabad-V),Umar Farooq - عمر فاروق  \
+NA-100 (Faisalabad-Vl),Nisar Ahmad - نثار احمد  \
+NA-101 (Faisalabad-Vll),Rana Atif - رانا عاطف  \
+NA-102 (Faisalabad-Vlll),Changez Ahmad Khan - چنگیز احمد خان  \
+NA-103 (Faisalabad-lX),Muhammad Ali Sarfraz - محمد علی سرفراز  \
+NA-104 (Faisalabad-X),Sahibzada Muhammad Hamid Raza - صاحبزادہ محمد حامد رضا  \
+NA-105 (T.T.Singh-l),Usama Hamza - اسامه حمزه  \
+NA-106 (T.T.Singh-ll),Khalid Nawaz - خالد نواز  \
+NA-107 (T.T.Singh-lll),Mohammad Riaz Khan - محمد ریاض خان  \
+NA-108 (Jhang-l),Muhammad Mahbob Sultan - محمد محبوب سلطان  \
+NA-109 (Jhang-ll),Waqas Akram - وقاص اکرم  \
+NA-110 (Jhang-lll),Muhammad Ameer Sultan - محمد امیر سلطان  \
+NA-111 (NankanaSahib-l),Muhammad Arshad Sahi - محمد ارشد ساہی  \
+NA-112 (NankanaSahib-ll),Ijaz Ahmad Shah - اعجاز احمد شاہ  \
+NA-113 (Sheikhupura-l),Rahat Aman Ullah Bhatti - راحت امان اللہ بھٹی  \
+NA-114 (Sheikhupura-ll),Arshad Mehmood Chaudhary - ارشد محمود چودھری  \
+NA-115 (Sheikhupura-lll),Khurram Shahzad Virk - خرم شہزاد ورک  \
+NA-116 (Sheikhupura-lV),Khurram Munawar Manj - خرم منور منج  \
+NA-117 (Lahore-l),Ali Ijaz - علی اعجاز  \
+NA-118 (Lahore-ll),Aliya Hamza Malik - عالیہ حمزہ ملک  \
+NA-119 (Lahore-lll),Shehzad Farooq - شہزاد فاروق  \
+NA-120 (Lahore-lV),Usman Hamza - عثمان حمزہ  \
+NA-121 (Lahore-V),Waseem Qadir - وسیم قادر  \
+NA-122 (Lahore-Vl),Sardar Muhammad Latif Khan Khosa - سردار محمد لطیف خان کھوسہ  \
+NA-123 (Lahore-Vll),Afzaal Azeem Pahat - افضال عظیم پاہٹ  \
+NA-124 (Lahore-Vlll),Zameer Ahmad - ضمیراحمد  \
+NA-125 (Lahore-IX),Javaid Umar - جاوید عمر  \
+NA-126 (Lahore-X),Malik Touqeer Abbas Khokhar - ملک توقیر عباس کھوکھر  \
+NA-127 (Lahore-Xl),Malik Zaheer Abbas - ملک ظہیر عباس  \
+NA-128 (Lahore-Xll),Salman Akram Raja - سلمان اکرم راجہ  \
+NA-129 (Lahore-Xlll),Mian Muhammad Azhar - میاں محمد اظہر  \
+NA-130 (Lahore-XlV),Yasmin Rashid - یاسمین راشد  \
+NA-131 (Kasur-l),Muhammad Maqsood Sabir Ansari - محمد مقصود صابر انصاری  \
+NA-132 (Kasur-ll),Sardar Muhammad Hussain Dogar - سردار محمد حسین ڈوگر  \
+NA-133 (Kasur-lll),Azim Uddin Zahid - عظیم الدین زاہد  \
+NA-134 (Kasur-lV),Sidra Faisal - سدرہ فیصل  \
+NA-135 (Okara-l),Malik Muhammad Akram Bhatti - ملک محمد اکرم بھٹی  \
+NA-136 (Okara-ll),Rao Hassan Sikandar - راؤ حسن سکندر  \
+NA-137 (Okara-lll),Syed Raza Ali Gillani - سید رضا علی گیلانی  \
+NA-138 (Okara-IV),Arshad Ali - ارشد علی  \
+NA-139 (Pakpattan-l),Rao Omar Hashim Khan - راؤ عمر ہاشم خان  \
+NA-140 (Pakpattan-ll),Raja Talia Saeed - راجہ طالع سعید  \
+NA-141 (Sahiwal-l),Rana Amir Shahzad Tahir - رانا عامرشہزاد طاہر  \
+NA-142 (Sahiwal-ll),Usman Ali - عثمان علی  \
+NA-143 (Sahiwal-lll),Rai Hassan Nawaz Khan - رائے حسن نواز خان  \
+NA-144 (Khanewal-l),Muhammad Ahsan - محمد احسان  \
+NA-145 (Khanewal-ll),Abid Mahmood - عابد محمود  \
+NA-146 (Khanewal-lll),Muhammad Imran Shah - محمد عمران شاہ  \
+NA-147 (Khanewal-lV),Naveed Hameed - نوید حمید  \
+NA-148 (Multan-l),Taimur Altaf Malik - تیمور الطاف ملک  \
+NA-149 (Multan-ll),Malik Muhammad Aamir Dogar - ملک محمد عامر ڈوگر  \
+NA-150 (Multan-lll),Zain Qureshi - مخدوم زین حسین قریشی  \
+NA-151 (Multan-lV),Mehar Bano Qureshi - مہر بانو قریشی  \
+NA-152 (Multan-V),Muhammad Imran Shaukat Khan - محمد عمران شوکت خان  \
+NA-153 (Multan-Vl),Riaz Hussain Laang - ریاض حسین لانگ  \
+NA-154 (Lodhran-l),Rana Muhammad Faraz Noon - رانا محمد فراز نون  \
+NA-155 (Lodhran-ll),RAO MUHAMMAD QASIM - راؤ محمد قاسم  \
+NA156,Not Found  \
+NA-157 (Vehari-ll),Sabeen Safdar - سبین صفدر  \
+NA-158 (Vehari-lll),Tahir Iqbal - طاہر اقبال  \
+NA-159 (Vehari-lV),Aurangzeb Khan Khichi - اورنگزیب خان کھچی  \
+NA-160 (Bahawalnagar-l),Noor Muhammad Ghifari - نور محمد غفاری  \
+NA-161 (Bahawalnagar-ll),Shahid Amin - شاہد امین  \
+NA-162 (Bahawalnagar-lll),Ch Khalil Arain - خلیل آراین  \
+NA-163 (Bahawalnagar-lV),Shaukat Basra - شوکت بسرا  \
+NA-164 (Bahawalpur-l),Malik Ejaz Ahmad Guddan - ملک اعجاز احمد گڈن  \
+NA-165 (Bahawalpur-ll),Basharat Ali - بشارت علی  \
+NA-166 (Bahawalpur-lll),Kanwal Shauzab - کنول شوذب  \
+NA-167 (Bahawalpur-lV),Mahboob Ahmad - محبوب احمد  \
+NA-168 (Bahawalpur-V),Sami Ullah Chaudhary - سمیع اللہ چوہدری  \
+NA-169 (RahimYarKhan-l),Raja Muhammad Saleem - راجہ محمد سلیم  \
+NA-170 (RahimYarKhan-ll),Mian Ghous Muhammad - میاں غوث محمد  \
+NA-171 (RahimYarKhan-lll),Mumtaz Mustafa - ممتاز مصطفیٰ  \
+NA-172 (RahimYarKhan-lV),Javaid Iqbal - جاوید اقبال  \
+NA-173 (RahimYarKhan-V),Mohammad Nabeel Dahir - محمد نبیل ڈاہر  \
+NA-174 (RahimYarKhan-Vl),Rais Muhammad Mahboob Ahmed - رئیس محمد محبوب احمد  \
+NA-175 (Muzaffargarh-l),Jamshaid Ahmad - جمشید احمد  \
+NA-176 (Muzaffargarh-ll),Nawabzada Muhammad Ahmad Khan Babar - نوابزادہ محمد احمد خان بابر  \
+NA-177 (Muzaffargarh-lll),Muhammad Moazzam Ali Khan - محمد معظم علی خان  \
+NA-178 (Muzaffargarh-lV),Abdul Qayum Khan Jatoi - عبدالقیوم خان جتوئی  \
+NA-179 (KotAddu-l),Muhammad Shabbir Ali Qureshi - محمد شبیر علی قریشی  \
+NA-180 (KotAddu-ll),Fiaz Hussain - فیاض حسین  \
+NA-181 (Layyah-l),Umber Majeed - عنبر مجید  \
+NA-182 (Layyah-ll),Awais Haider Jhakar - اویس حیدر جکھڑ  \
+NA-183 (Taunsa),Khawaja Sheraz Mehmood - خواجہ شیراز محمود  \
+NA-184 (D.G.Khan-l),Ali Muhammad - علی محمد  \
+NA-185 (D.G.Khan-ll),Zartaj Gul - زرتاج گل  \
+NA-186 (D.G.Khan-lll),Sajjad Hussain - سجاد حسین  \
+NA-187 (Rajanpur-l),Muhammad Atif Ali Dreshak - محمد عاطف علی دریشک  \
+NA-188 (Rajanpur-ll),Sardar Ahmad Ali Khan Drishak - سردار احمد علی خان دریشک  \
+NA-189 (Rajanpur-lll),Zahid Khan Mazari - زاہد خان مزاری  \
+NA-190 (Jacobabad),To be uploaded -  \
+NA-191 (Jacobabad-Cum-Kashmore),To be uploaded -  \
+NA-192 (Kashmore-Cum-Shikarpur),Muhammad Alam - محمد عالم  \
+NA-193 (Shikarpur),Maqsood Ali - مقصود علی  \
+NA-194 (Larkana-l),Tarique Hussain - طارق حسین  \
+NA-195 (Larkana-ll),Qazi Manzoor Ahmed -  \
+NA-196 (KamberShahdadkot-l),Naheed Khawar - ناہید خاور  \
+NA-197 (KamberShahdadkot-ll),Muhammad Ali Hakro - محمد علی حکرو  \
+NA-198 (Ghotki-l),Abdul Sattar - عبدالستار  \
+NA-199 (Ghotki-ll),To be uploaded -  \
+NA-200 (Sukkur-l),Gohar Khoso - گوهر علی خوسو  \
+NA-201 (Sukkur-ll),To be uploaded -  \
+NA-202 (Khairpur-l),Ambareen Malik - امبرین ملک  \
+NA-203 (Khairpur-ll),Jameel Ahmed Lund - جمیل احمد لنڈبلوچ  \
+NA-204 (Khairpur-lll),Syed Niaz Hussain Shah Jillani - سید نیاز حسین شاہ جیلانی  \
+NA-205 (NaushahroFeroze-l),To be uploaded -  \
+NA-206 (NaushahroFeroze-ll),Amanullah - امان اللہ  \
+NA-207 (ShaheedBenazirabad-l),Sardar Sher Muhammad Rind Baloch - سردار شیر محمد رند بلوچ  \
+NA-208 (ShaheedBenazirabad-ll),Gul Muhammad Rind - گل محمد رند  \
+NA-209 (Sanghar-l),Hameeda Masood Shah - حمیدہ مسعود شاہ  \
+NA-210 (Sanghar-ll),Manochaher - منو چھر  \
+NA-211 (Mirpurkhas-l),Abdul Haque - عبدالحق  \
+NA-212 (Mirpurkhas-ll),Syed Mumtaz Ali Shah - سید ممتازعلی شاہ  \
+NA-213 (Umerkot),Lalchand - لالچند  \
+NA-214 (Tharparkar-l),Zain Hussain Qureshi - مخدوم زین حسین قریشی  \
+NA-215 (Tharparkar-ll),Mehar u Nisa Baloch - مہر النساء بلوچ  \
+NA-216 (Matiari),Nazish Bhatti - نازش بھٹی  \
+NA-217 (Tando Allahyar),Rozeena - روزینہ  \
+NA-218 (Hyderabad-l),-  \
+NA-219 (Hyderabad-ll),Mustansir Billah - مستنصر باللہ  \
+NA-220 (Hyderabad-lll),Faisal Mughal - فیصل مغل  \
+NA-221 (TandoMuhammadKhan),Muhammad Irfan - محمد عرفان  \
+NA-222 (Badin-l),Shah Nawaz - شاہنواز  \
+NA-223 (Badin-ll),Azizullah Dero - عزیزاللہ ڈیرو  \
+NA-224 (Sajawal),Syed Mumtaz Ali Shah - ممتاز علی شاہ  \
+NA-225 (Thatta),Syed Jameel Ahmed Shah Bukhari - سید جمیل احمد شاہ بخاری  \
+NA-226 (Jamshoro),Abdul Hakeem Chandio - عبدالحکیم چانڈیو  \
+NA-227 (Dadu-l),Shabana Nawab - شبانہ نواب  \
+NA-228 (Dadu-ll),Zulfiqar Ali Malha - ذوالفقارعلی ملاح  \
+NA-229 (Malir-l),Wali Muhammad - ولی محمد  \
+NA-230 (Malir-ll),Masroor Ali - مسرور علی  \
+NA-231 (Malir-lll),Khalid Mehmood Ali - خالد محمود علی  \
+NA-232 (KarachiKorangi-l),Adeel Ahmad - عدیل احمد  \
+NA-233 (KarachiKorangi-ll),Muhammad Haris - محمد حارث  \
+NA-234 (KarachiKorangi-lll),Faheem Khan - فھیم خان  \
+NA-235 (KarachiEast-l),Saif ur Rehman Son of Taj Alam Khan - سیف الرحمن بن تاج عالم خان  \
+NA-236 (KarachiEast-ll),Muhammad Alamgir Khan - محمد عالمگیر خان  \
+NA-237 (KarachiEast-lll),Zahoor Ud Din - ظہور الدین  \
+NA-238 (KarachiEast-lV),Haleem Adil Sheikh - حلیم عادل شیخ  \
+NA-239 (KarachiSouth-l),Muhammad Yasir - محمد یاسر  \
+NA-240 (KarachiSouth-ll),Ramzan - رمضان  \
+NA-241 (KarachiSouth-lll),Khurram Sher Zaman - خرم شیر زمان  \
+NA-242 (KarachiKeamari-l),Dawa Khan - دوا خان  \
+NA-243 (KarachiKeamari-ll),Shujaat Ali - شجاعت علی  \
+NA-244 (KarachiWest-l),Aftab Jahangir - آفتاب جہانگیر  \
+NA-245 (KarachiWest-ll),Ata Ullah  - عطاء الله  \
+NA-246 (KarachiWest-lll),Malik Arif Awan - ملک محمد عارف اعوان  \
+NA-247 (KarachiCentral-l),Syed Abbas Husnain - سید عباس حسنین  \
+NA-248 (KarachiCentral-ll),Arslan Khalid - ارسلان خالد  \
+NA-249 (KarachiCentral-lll),Barrister Uzair Ghouri - عزیر غوری  \
+NA-250 (KarachiCentral-lV),Riaz Hyder - محمد ریاض حیدر  \
+NA-251 (Sherani),Dawood Ullah - داوود الله  \
+NA-252 (MusaKhail),Sardar Babar Musakhel - سردار بابرخان موسیٰ خیل  \
+NA-253 (Ziarat),Saddam - صدام  \
+NA-254 (Jhal Magsi),Peer Bakhsh - پیر بخش  \
+NA-255 (SohbatPur),Muhammad Arif Murad - محمد عارف مراد  \
+NA-256 (Khuzdar),To be uploaded -  \
+NA-257 (Hub-cum-Lasbela),Mir Ali Ahmad Zehri - میر علی احمد زہری  \
+NA-258 (Panjgur-cum-Kech),To be uploaded -  \
+NA-259 (Kech-cum-Gwadar),To be uploaded -  \
+NA-260 (Chagai),Ghulam Qadir - غلام قادر  \
+NA-261 (Surab),To be uploaded -  \
+NA-262 (Quetta-l),Adil Khan Bazai - عادل خان بازئ  \
+NA-263 (Quetta-ll),Salar Khan Kakar - سالار خان کاکڑ  \
+NA-264 (Quetta-lll),Zain ul abidin Khan - زین العابدین خان  \
+NA-265 (Pishin),Syed Zahoor Ahmed - سید ظہور احمد  \
+NA-266 (KillaAbdullah),Malik Asmatullah Khan Kakar - ملک عصمت اللہ خان کاکڑ  \
+  \
