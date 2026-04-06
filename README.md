@@ -1,4 +1,6 @@
-# PP Punjab Candidates 2024 (PTI)
+# Adiyala Attendance List of PTI Ticket Holders GE 2024
+
+## PP Punjab Candidates 2024 (PTI)
 
 PP-1 (Attock-I),Qazi Ahmed Akbar - قاضی احمد اکبر  \
 PP-2 (Attock-II),Sardar Mohammad Ali Khan - سردار محمد علی خان  \
@@ -298,7 +300,7 @@ PP-295 (Rajanpur-IV),Sardar Farooq Amanullah Dareshak - سردار فاروق ا
 PP-296 (Rajanpur-V),Sardar Muhammad Awais Dareshak - سردار محمد اویس دریشک  \
 PP-297 (Rajanpur-VI),Zahid Khan Mazari - زاہد خان مزاری  \
   \
-# NA Punjab Candidtes 2024 (PTI)
+## NA Punjab Candidtes 2024 (PTI)
 
 NA-1 (Chitral),Abdul Latif - عبد اللطیف  \
 NA-2 (Swat-I),Amjad Ali Khan - امجد علی خان  \
@@ -566,4 +568,4 @@ NA-263 (Quetta-ll),Salar Khan Kakar - سالار خان کاکڑ  \
 NA-264 (Quetta-lll),Zain ul abidin Khan - زین العابدین خان  \
 NA-265 (Pishin),Syed Zahoor Ahmed - سید ظہور احمد  \
 NA-266 (KillaAbdullah),Malik Asmatullah Khan Kakar - ملک عصمت اللہ خان کاکڑ  \
-  \
+  
