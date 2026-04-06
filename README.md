@@ -567,5 +567,5 @@ NA-262 (Quetta-l),Adil Khan Bazai - عادل خان بازئ  \
 NA-263 (Quetta-ll),Salar Khan Kakar - سالار خان کاکڑ  \
 NA-264 (Quetta-lll),Zain ul abidin Khan - زین العابدین خان  \
 NA-265 (Pishin),Syed Zahoor Ahmed - سید ظہور احمد  \
-NA-266 (KillaAbdullah),Malik Asmatullah Khan Kakar - ملک عصمت اللہ خان کاکڑ  \
+NA-266 (KillaAbdullah),Malik Asmatullah Khan Kakar - ملک عصمت اللہ خان کاکڑ  
   
