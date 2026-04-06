@@ -300,7 +300,7 @@ PP-295 (Rajanpur-IV),Sardar Farooq Amanullah Dareshak - سردار فاروق ا
 PP-296 (Rajanpur-V),Sardar Muhammad Awais Dareshak - سردار محمد اویس دریشک  \
 PP-297 (Rajanpur-VI),Zahid Khan Mazari - زاہد خان مزاری  \
   
-## NA Punjab Candidtes 2024 (PTI)
+## NA Candidtes 2024 (PTI)
 
 NA-1 (Chitral),Abdul Latif - عبد اللطیف  \
 NA-2 (Swat-I),Amjad Ali Khan - امجد علی خان  \
