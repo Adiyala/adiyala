@@ -232,7 +232,6 @@ td
 .scrollbox
     {width: 300px;
      height: 200px; 
-	 overflow-x: auto;
+     overflow-x: auto;
      overflow-y: scroll;
-     border: 1px solid #ccc;
-}
+     border: 1px solid #ccc;}
